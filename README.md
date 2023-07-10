@@ -69,15 +69,15 @@
   * [Projet - JustBrewIt](https://github.com/DrC0okie/HEIG_BDR_JustBrewIt)
 
   ### POO
-  *[Labo 1 - The Voice](https://github.com/DrC0okie/HEIG_POO_Labo1)
-  *[Labo 2 - UML part 1](https://github.com/DrC0okie/HEIG_POO_Labo2)
-  *[Labo 3 - UML part 2](https://github.com/DrC0okie/HEIG_POO_Labo3)
-  *[Labo 4 - Sorting algorithms](https://github.com/DrC0okie/HEIG_POO_Labo4)
-  *[Labo 5 - Matrix](https://github.com/DrC0okie/HEIG_POO_Labo5)
-  *[Labo 6 - Ecole](https://github.com/DrC0okie/HEIG_POO_Labo6)
-  *[Labo 7 - Hanoi](https://github.com/DrC0okie/HEIG_POO_Labo7)
-  *[Labo 8 - Echecs](https://github.com/emilie-h/POO-Labo-08) - Private Repo
-  *[Labo 9 - The Lord of the Rings (Not finished)](https://github.com/DrC0okie/HEIG_POO_Labo9)
+  * [Labo 1 - The Voice](https://github.com/DrC0okie/HEIG_POO_Labo1)
+  * [Labo 2 - UML part 1](https://github.com/DrC0okie/HEIG_POO_Labo2)
+  * [Labo 3 - UML part 2](https://github.com/DrC0okie/HEIG_POO_Labo3)
+  * [Labo 4 - Sorting algorithms](https://github.com/DrC0okie/HEIG_POO_Labo4)
+  * [Labo 5 - Matrix](https://github.com/DrC0okie/HEIG_POO_Labo5)
+  * [Labo 6 - Ecole](https://github.com/DrC0okie/HEIG_POO_Labo6)
+  * [Labo 7 - Hanoi](https://github.com/DrC0okie/HEIG_POO_Labo7)
+  * [Labo 8 - Echecs](https://github.com/emilie-h/POO-Labo-08) - Private Repo
+  * [Labo 9 - The Lord of the Rings (Not finished)](https://github.com/DrC0okie/HEIG_POO_Labo9)
   
 
 </details>
