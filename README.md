@@ -6,6 +6,9 @@
   <summary>Ouvrir</summary>
 
   ### PRG1
+  
+  2021 - Programmation 1 avec Eric Taillard
+  
   * [Labos_PRG1](https://github.com/DrC0okie/HEIG_PRG1_Labos)
 
 </details>
@@ -16,6 +19,9 @@
   <summary>Ouvrir</summary>
 
   ### ARO
+
+  2022 - Architecture des ordinateurs avec Romuald Mosqueron & Mike
+  
   * [Labo Decode](https://github.com/DrC0okie/HEIG_ARO_LaboDecode_BDY_TVE)
   * [Labo Fetch](https://github.com/DrC0okie/HEIG_ARO_LaboFetch_BDY_TVE)
   * [Labo Execute](https://github.com/DrC0okie/HEIG_ARO_LaboExecute_BDY_TVE)
@@ -23,15 +29,24 @@
   * [Labo Pipeline (partie 2)](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie2_BDY_TVE)
 
   ### ISD
+
+  2022 - Introduction à la science des données avec Carlos Pena
+  
   * [Labo 3 - Animeaux et Gapminder](https://github.com/DrC0okie/Roy_VanHove_ISD_TP3)
   * [Labo 4 - Classification de vins (UCI Wine Data Set)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP4)
   * [Labo 5 - Régression linéaire (Boston Housing Dataset)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP5)
 
   ### PRG2
+
+  2022 - Programmation 2 avec René Rentsch & Raphaël Racine
+  
   * [Labo1 - Planche de Galton](https://github.com/DrC0okie/HEIG_PRG2_Labo1)
   * [Labo2 - Parking](https://github.com/DrC0okie/HEIG_PRG2_Labo2)
-  * 
+
   ### ASD
+  
+  2022 - Algorithmes et structures de données avec Laura Elena Raileanu
+  
   * [Labo 1 - Complexité](https://github.com/DrC0okie/ASD2022-L1-Complexite)
   * [Labo 2 - Recursivité](https://github.com/DrC0okie/ASD2022-L2-Recursivite)
   * [Labo 3 - Tris](https://github.com/DrC0okie/ASD2022-L3-Tris)
@@ -49,6 +64,9 @@
   <summary>Ouvrir</summary>
 
   ### PIN
+
+  2022 - Projet informatique avec Olivier Cuisenaire et Jean-Marc Bost
+  
   [Projet Informatique](https://github.com/DrC0okie/HEIG_PIN)
 
   ### DTS
@@ -61,7 +79,16 @@
 <details>
   <summary>Ouvrir</summary>
 
+  ### PCO
+
+  ### SYE
+
+  ### PST
+
   ### DAI
+  
+  2022 - Développement d'appkications internet avec Jürgen Ehrensberger et Raphaël Racine
+  
   * [Chill Protocol](https://github.com/DrC0okie/DAI-2022-Chill)
   * [Java IO](https://github.com/DrC0okie/DAI-2022-Java-IO)
   * [Protocol Design (Calculator)](https://github.com/DrC0okie/DAI-2022-Protocol-design)
@@ -69,6 +96,9 @@
   * [UDP Orchestra](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra)
 
   ### BDR
+  
+  2022 - Bases de données relationnelles avec Fatemi Nastaran et Christopher Meier
+  
   * [Labo 1](https://github.com/DrC0okie/HEIG_BDR_Labo1)
   * [Labo 2](https://github.com/DrC0okie/HEIG_BDR_Labo2)
   * [Labo 3](https://github.com/DrC0okie/HEIG_BDR_Labo3)
@@ -76,6 +106,9 @@
   * [Projet - JustBrewIt](https://github.com/DrC0okie/HEIG_BDR_JustBrewIt)
 
   ### POO
+  
+  2022 - Programmation orientée objet avec Marcel Graf et René Rentsch
+  
   * [Labo 1 - The Voice](https://github.com/DrC0okie/HEIG_POO_Labo1)
   * [Labo 2 - UML part 1](https://github.com/DrC0okie/HEIG_POO_Labo2)
   * [Labo 3 - UML part 2](https://github.com/DrC0okie/HEIG_POO_Labo3)
@@ -95,18 +128,35 @@
   <summary>Ouvrir</summary>
   
   ### PDL
+  
+  2023 - Processus de développement logiciel avec Hanna Fouad et Adrien Allemand
 
-  ### RXI
+  ### SRX
+  
+  2023 - Sécurité des réseaux avec Linus Gasser
+  
+  * [Labo 1 - NMAP](https://github.com/DrC0okie/HEIG_SRX_Labo1)
+  * [Labo 2 - Firewall](https://github.com/DrC0okie/HEIG_SRX_Labo2)
+  * [Labo 3 - IDS](https://github.com/DrC0okie/HEIG_SRX_Labo3)
+  * [Labo 5 - VPN](https://github.com/DrC0okie/HEIG_SRX_Labo5)
 
   ### CLD
+  
+  2023 - Cloud computing avec Marcel Graf et Rémi Poulard
 
   ### GRS
+  
+  2023 - Gestion des réseaux avec Alain Bron et Hacknowledge
 
 </details>
 
 ## Hes d'été #2
 
   ### PDG
+
+  2023 - Projet de groupe avec Bertil Chapuis et Hanna Fouad
+  
+  Comin soon!
 
 ## Semestre 6
 
