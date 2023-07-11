@@ -29,10 +29,17 @@
 
   ### PRG2
   * [Labo1 - Planche de Galton](https://github.com/DrC0okie/HEIG_PRG2_Labo1)
-  * [Labo2 - Parking](https://github.com/DrC0okie/HEIG_PRG2_Labo2) - Private repo
+  * [Labo2 - Parking](https://github.com/DrC0okie/HEIG_PRG2_Labo2)
   * 
   ### ASD
-  * Coming soon!
+  * [Labo 1 - Complexité](https://github.com/DrC0okie/ASD2022-L1-Complexite)
+  * [Labo 2 - Recursivité](https://github.com/DrC0okie/ASD2022-L2-Recursivite)
+  * [Labo 3 - Tris](https://github.com/DrC0okie/ASD2022-L3-Tris)
+  * [Labo 4 - Allocation Dynamique](https://github.com/DrC0okie/ASD2022-L4-Allocation-Dynamique)
+  * [Labo 5 - Buffer circulaire](https://github.com/DrC0okie/ASD2022-L5-Buffer-circulaire-de-capacite-variable)
+  * [Labo 6 - Liste simplement chainée](https://github.com/DrC0okie/ASD2022-L6-Liste-Simplement-chainee)
+  * [Labo 7 - Expressions arithmétiques](https://github.com/DrC0okie/ASD2022-L7-Expressions-arithmetiques)
+  * [Labo 8 - Arbre AVL](https://github.com/DrC0okie/HEIG_ASD_Labo8)
 
 </details>
 
@@ -42,7 +49,7 @@
   <summary>Ouvrir</summary>
 
   ### PIN
-  [Projet Informatique](https://github.com/DrC0okie/PIN-Project-2022) - Private Repo
+  [Projet Informatique](https://github.com/DrC0okie/HEIG_PIN)
 
   ### DTS
   * Coming soon!
@@ -76,7 +83,7 @@
   * [Labo 5 - Matrix](https://github.com/DrC0okie/HEIG_POO_Labo5)
   * [Labo 6 - Ecole](https://github.com/DrC0okie/HEIG_POO_Labo6)
   * [Labo 7 - Hanoi](https://github.com/DrC0okie/HEIG_POO_Labo7)
-  * [Labo 8 - Echecs](https://github.com/emilie-h/POO-Labo-08) - Private Repo
+  * [Labo 8 - Echecs](https://github.com/DrC0okie/HEIG_POO_Labo8)
   * [Labo 9 - The Lord of the Rings (Not finished)](https://github.com/DrC0okie/HEIG_POO_Labo9)
   
 
