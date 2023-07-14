@@ -1,20 +1,16 @@
 # HEIG-VD
 
-<details>
-  <summary><span style="font-size: 18px;">Semestre 1</span></summary>
+## Semestre 1
 
-  ### PRG1
+### PRG1
   
   2021 - Programmation 1 avec Eric Taillard et Stéphane Teixeira Carvalho
   
   * [Labos_PRG1](https://github.com/DrC0okie/HEIG_PRG1_Labos)
 
-</details>
+## Semestre 2
 
-<details>
-  <summary>Semestre 2</summary>
-
-  ### ARO
+### ARO
 
   2022 - Architecture des ordinateurs avec Romuald Mosqueron et Mike Meury
   
@@ -24,7 +20,7 @@
   * [Labo Pipeline (partie 1)](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie1_BDY_TVE)
   * [Labo Pipeline (partie 2)](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie2_BDY_TVE)
 
-  ### ISD
+### ISD
 
   2022 - Introduction à la science des données avec Carlos Pena et Thibault Schowing
   
@@ -32,18 +28,18 @@
   * [Labo 4 - Classification de vins (UCI Wine Data Set)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP4)
   * [Labo 5 - Régression linéaire (Boston Housing Dataset)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP5)
 
-  ### ISI
+### ISI
 
   2022 - Introduction à la sécurité informatique avec Abraham Rubinstein et Nathan Séville
 
-  ### PRG2
+### PRG2
 
-  2022 - Programmation 2 avec René Rentsch & Raphaël Racine
+2022 - Programmation 2 avec René Rentsch & Raphaël Racine
   
   * [Labo1 - Planche de Galton](https://github.com/DrC0okie/HEIG_PRG2_Labo1)
   * [Labo2 - Parking](https://github.com/DrC0okie/HEIG_PRG2_Labo2)
 
-  ### ASD
+### ASD
   
   2022 - Algorithmes et structures de données avec Laura Elena Raileanu et Antoine Rochat
   
@@ -56,32 +52,27 @@
   * [Labo 7 - Expressions arithmétiques](https://github.com/DrC0okie/ASD2022-L7-Expressions-arithmetiques)
   * [Labo 8 - Arbre AVL](https://github.com/DrC0okie/HEIG_ASD_Labo8)
 
-</details>
+## HES d'été 2022
 
-<details>
-  <summary>Hes d'été #1</summary>
-
-  ### PIN
+### PIN
 
   2022 - Projet informatique avec Olivier Cuisenaire et Jean-Marc Bost
   
   [Projet Informatique](https://github.com/DrC0okie/HEIG_PIN)
 
-  ### DTS
+### DTS
+
   * Coming soon!
     
-</details>
+## Semestre 3
 
-<details>
-  <summary>Semestre 3</summary>
+### PCO
 
-  ### PCO
+### SYE
 
-  ### SYE
+### PST
 
-  ### PST
-
-  ### DAI
+### DAI
   
   2022 - Développement d'appkications internet avec Jürgen Ehrensberger et Raphaël Racine
   
@@ -91,7 +82,7 @@
   * [HTTP Infrastructure](https://github.com/DrC0okie/HEIG_DAI_HTTP_Infrastructure)
   * [UDP Orchestra](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra)
 
-  ### BDR
+### BDR
   
   2022 - Bases de données relationnelles avec Fatemi Nastaran et Christopher Meier
   
@@ -101,7 +92,7 @@
   * [Labo 4](https://github.com/DrC0okie/HEIG_BDR_Labo4)
   * [Projet - JustBrewIt](https://github.com/DrC0okie/HEIG_BDR_JustBrewIt)
 
-  ### POO
+### POO
   
   2022 - Programmation orientée objet avec Marcel Graf et René Rentsch
   
@@ -116,12 +107,9 @@
   * [Labo 9 - The Lord of the Rings (Not finished)](https://github.com/DrC0okie/HEIG_POO_Labo9)
   
 
-</details>
-
-<details>
-  <summary>Semestre 4</summary>
+## Semestre 4
   
-  ### PDL
+### PDL
   
   2023 - Processus de développement logiciel avec Hanna Fouad et Adrien Allemand
 
@@ -129,7 +117,7 @@
   * [Labo 6 - UML Concert](https://github.com/DrC0okie/HEIG_PDL_Labo6)
   * [Labo 7 - Code refactoring](https://github.com/DrC0okie/HEIG_PDL_Labo7)
 
-  ### SRX
+### SRX
   
   2023 - Sécurité des réseaux avec Linus Gasser et Axel Vallon
   
@@ -138,7 +126,7 @@
   * [Labo 3 - IDS](https://github.com/DrC0okie/HEIG_SRX_Labo3)
   * [Labo 5 - VPN](https://github.com/DrC0okie/HEIG_SRX_Labo5)
 
-  ### CLD
+### CLD
   
   2023 - Cloud computing avec Marcel Graf et Rémi Poulard
 
@@ -150,24 +138,18 @@
   * [Labo 6 - Ansible & Terraform](https://github.com/DrC0okie/HEIG_CLD_Labo6)
   * [Workshop - AWs IoT Core](https://github.com/DrC0okie/HEIG_CLD_Workshop)
 
-  ### GRS
+### GRS
   
   2023 - Gestion des réseaux avec Alain Bron et Hacknowledge
 
-</details>
+## HES d'été 2023
 
-<details>
-  <summary>Hes d'été #2</summary>
-
-  ### PDG
+### PDG
 
   2023 - Projet de groupe avec Bertil Chapuis et Hanna Fouad
   
   Coming soon!
   
-</details>
-  
-<details>
-  <summary>Semestre 5</summary>
-  à venir
-</details>
+## Semestre 5
+
+  Coming soon!
