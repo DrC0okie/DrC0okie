@@ -79,6 +79,7 @@
   * [Labo 1 - Chill Protocol](https://github.com/DrC0okie/DAI-2022-Chill)
   * [Labo 2 - Java IO](https://github.com/DrC0okie/DAI-2022-Java-IO)
   * [Labo 3 - Protocol Design (Calculator)](https://github.com/DrC0okie/DAI-2022-Protocol-design)
+  * [Labo 4 - SMTP](https://github.com/DrC0okie/HEIG_DAI_SMTP)
   * [Labo 5 - HTTP Infrastructure](https://github.com/DrC0okie/HEIG_DAI_HTTP_Infrastructure)
   * [Labo 6 - UDP Orchestra](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra)
 
