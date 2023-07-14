@@ -1,26 +1,22 @@
-# HEIG
-
-## Semestre 1
+# HEIG-VD
 
 <details>
-  <summary>Ouvrir</summary>
+  <summary>Semestre 1</summary>
 
   ### PRG1
   
-  2021 - Programmation 1 avec Eric Taillard
+  2021 - Programmation 1 avec Eric Taillard et Stéphane Teixeira Carvalho
   
   * [Labos_PRG1](https://github.com/DrC0okie/HEIG_PRG1_Labos)
 
 </details>
 
-## Semestre 2
-
 <details>
-  <summary>Ouvrir</summary>
+  <summary>Semestre 2</summary>
 
   ### ARO
 
-  2022 - Architecture des ordinateurs avec Romuald Mosqueron & Mike
+  2022 - Architecture des ordinateurs avec Romuald Mosqueron et Mike Meury
   
   * [Labo Decode](https://github.com/DrC0okie/HEIG_ARO_LaboDecode_BDY_TVE)
   * [Labo Fetch](https://github.com/DrC0okie/HEIG_ARO_LaboFetch_BDY_TVE)
@@ -30,11 +26,15 @@
 
   ### ISD
 
-  2022 - Introduction à la science des données avec Carlos Pena
+  2022 - Introduction à la science des données avec Carlos Pena et Thibault Schowing
   
   * [Labo 3 - Animeaux et Gapminder](https://github.com/DrC0okie/Roy_VanHove_ISD_TP3)
   * [Labo 4 - Classification de vins (UCI Wine Data Set)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP4)
   * [Labo 5 - Régression linéaire (Boston Housing Dataset)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP5)
+
+  ### ISI
+
+  2022 - Introduction à la sécurité informatique avec Abraham Rubinstein et Nathan Séville
 
   ### PRG2
 
@@ -45,7 +45,7 @@
 
   ### ASD
   
-  2022 - Algorithmes et structures de données avec Laura Elena Raileanu
+  2022 - Algorithmes et structures de données avec Laura Elena Raileanu et Antoine Rochat
   
   * [Labo 1 - Complexité](https://github.com/DrC0okie/ASD2022-L1-Complexite)
   * [Labo 2 - Recursivité](https://github.com/DrC0okie/ASD2022-L2-Recursivite)
@@ -58,10 +58,8 @@
 
 </details>
 
-## Hes d'été #1
-
 <details>
-  <summary>Ouvrir</summary>
+  <summary>Hes d'été #1</summary>
 
   ### PIN
 
@@ -74,10 +72,8 @@
     
 </details>
 
-## Semestre 3
-
 <details>
-  <summary>Ouvrir</summary>
+  <summary>Semestre 3</summary>
 
   ### PCO
 
@@ -122,10 +118,8 @@
 
 </details>
 
-## Semestre 4
-
 <details>
-  <summary>Ouvrir</summary>
+  <summary>Semestre 4</summary>
   
   ### PDL
   
@@ -137,7 +131,7 @@
 
   ### SRX
   
-  2023 - Sécurité des réseaux avec Linus Gasser
+  2023 - Sécurité des réseaux avec Linus Gasser et Axel Vallon
   
   * [Labo 1 - NMAP](https://github.com/DrC0okie/HEIG_SRX_Labo1)
   * [Labo 2 - Firewall](https://github.com/DrC0okie/HEIG_SRX_Labo2)
@@ -162,7 +156,8 @@
 
 </details>
 
-## Hes d'été #2
+<details>
+  <summary>Hes d'été #2</summary>
 
   ### PDG
 
@@ -170,7 +165,8 @@
   
   Comin soon!
 
-## Semestre 6
-
-  ### à venir
+  
+<details>
+  <summary>Semestre 5</summary>
+  à venir
 </details>
