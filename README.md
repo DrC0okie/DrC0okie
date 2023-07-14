@@ -58,7 +58,7 @@
 
   2022 - Projet informatique avec Olivier Cuisenaire et Jean-Marc Bost
   
-  [Projet Informatique](https://github.com/DrC0okie/HEIG_PIN)
+  [PIN](https://github.com/DrC0okie/HEIG_PIN)
 
 ### DTS
 
