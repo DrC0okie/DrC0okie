@@ -1,7 +1,7 @@
 # HEIG-VD
 
 <details>
-  <summary>Semestre 1</summary>
+  <summary><span style="font-size: 18px;">Semestre 1</span></summary>
 
   ### PRG1
   
