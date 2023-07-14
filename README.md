@@ -131,6 +131,10 @@
   
   2023 - Processus de développement logiciel avec Hanna Fouad et Adrien Allemand
 
+  * [Labo 2 - Processus de développement d'un projet routier](https://github.com/DrC0okie/HEIG_PDL_Labo2)
+  * [Labo 6 - UML Concert](https://github.com/DrC0okie/HEIG_PDL_Labo6)
+  * [Labo 7 - Code refactoring](https://github.com/DrC0okie/HEIG_PDL_Labo7)
+
   ### SRX
   
   2023 - Sécurité des réseaux avec Linus Gasser
@@ -143,6 +147,14 @@
   ### CLD
   
   2023 - Cloud computing avec Marcel Graf et Rémi Poulard
+
+  * [Labo 1 - Infrastructure-as-a-Service](https://github.com/DrC0okie/HEIG_CLD_Labo1)
+  * [Labo 2 - App Scaling On AWS](https://github.com/DrC0okie/HEIG_CLD_Labo2)
+  * [Labo 3 - Auto Scaling an app on AWS](https://github.com/DrC0okie/HEIG_CLD_Labo3)
+  * [Labo 4 - Google App Engine](https://github.com/DrC0okie/HEIG_CLD_Labo4)
+  * [Labo 5 - Kubernetes](https://github.com/DrC0okie/HEIG_CLD_Labo5)
+  * [Labo 6 - Ansible & Terraform](https://github.com/DrC0okie/HEIG_CLD_Labo6)
+  * [Workshop - AWs IoT Core](https://github.com/DrC0okie/HEIG_CLD_Workshop)
 
   ### GRS
   
