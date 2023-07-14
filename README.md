@@ -163,8 +163,9 @@
 
   2023 - Projet de groupe avec Bertil Chapuis et Hanna Fouad
   
-  Comin soon!
-
+  Coming soon!
+  
+</details>
   
 <details>
   <summary>Semestre 5</summary>
