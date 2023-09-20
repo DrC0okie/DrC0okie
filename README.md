@@ -1,6 +1,6 @@
 # HEIG-VD
 
-Cette page regroupe la liste des dépôts associés aux laboratoires des cours que j'ai suivis à la HEIG-VD. Bien que chaque dépôt soit en libre accès, il est important de noter qu'ils sont dans l'état où ils ont été laissés à la conclusion de chaque laboratoire. Par conséquent, je ne peux pas garantir que le code soit exempt de bugs, optimisé ou entièrement fonctionnel. Je vous encourage vivement à aborder ces dépôts avec un œil critique et à ne pas les considérer comme des solutions finales ou irréprochables.
+Cette page regroupe la liste des repos associés aux laboratoires des cours que j'ai suivis à la HEIG-VD. Bien que chaque dépôt soit en libre accès, il est important de noter qu'ils sont dans l'état où ils ont été laissés à la conclusion de chaque laboratoire. Par conséquent, je ne peux pas garantir que le code soit exempt de bugs, optimisé ou entièrement fonctionnel. Je suggère vivement d'aborder ces repos avec un œil critique et à ne pas les considérer comme des solutions finales ou irréprochables, mais plutot comme une ressource potentiellement utiles, en cas de blocage technique ou lorsque la charge de travail devient écrasante, comme cela peut fréquemment arriver en fin de semestre.
 
 ## Semestre 1
 
@@ -33,6 +33,8 @@ Cette page regroupe la liste des dépôts associés aux laboratoires des cours q
 ### ISI
 
   2022 - Introduction à la sécurité informatique avec Abraham Rubinstein et Nathan Séville
+
+  Coming soon!
 
 ### PRG2
 
@@ -76,7 +78,7 @@ Cette page regroupe la liste des dépôts associés aux laboratoires des cours q
 
 ### DAI
   
-  2022 - Développement d'appkications internet avec Jürgen Ehrensberger et Raphaël Racine
+  2022 - Développement d'applications internet avec Jürgen Ehrensberger et Raphaël Racine
   
   * [Labo 1 - Chill Protocol](https://github.com/DrC0okie/DAI-2022-Chill)
   * [Labo 2 - Java IO](https://github.com/DrC0okie/DAI-2022-Java-IO)
@@ -151,8 +153,8 @@ Cette page regroupe la liste des dépôts associés aux laboratoires des cours q
 
   2023 - Projet de groupe avec Bertil Chapuis et Hanna Fouad
   
-  Coming soon!
+  * [Scanalyze](https://github.com/DrC0okie/scanalyze)
   
 ## Semestre 5
 
-  Coming soon!
+  
