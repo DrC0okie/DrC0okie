@@ -1,5 +1,7 @@
 # HEIG-VD
 
+Cette page regroupe la liste des dépôts associés aux laboratoires des cours que j'ai suivis à la HEIG-VD. Bien que chaque dépôt soit en libre accès, il est important de noter qu'ils sont dans l'état où ils ont été laissés à la conclusion de chaque laboratoire. Par conséquent, je ne peux pas garantir que le code soit exempt de bugs, optimisé ou entièrement fonctionnel. Je vous encourage vivement à aborder ces dépôts avec un œil critique et à ne pas les considérer comme des solutions finales ou irréprochables.
+
 ## Semestre 1
 
 ### PRG1
