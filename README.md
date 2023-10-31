@@ -155,6 +155,18 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   
   * [Scanalyze](https://github.com/DrC0okie/scanalyze)
   
+
 ## Semestre 5
 
+### SLH
+
+  2023 - Sécurité logicielle haut niveau avec Alexandre Duc
+
+  * [Labo1 - ]
+
+### DAA
+
+  2023 - Développement d'application Android avec Fabien Dutoit
+
+* [Labo2 - Activités et fragments](https://github.com/DrC0okie/HEIG_DAA_Labo2)
   
