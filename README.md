@@ -72,9 +72,26 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
 ### PCO
 
+  2023 - Programmation concurrente avec Florian Vaussard et Gabriel Catel Torres Arzur
+  
+  *[Labo1 - Prise en main des threads](https://github.com/DrC0okie/HEIG_PCO_Labo1)
+  *[Labo2 - Cracking md5](https://github.com/DrC0okie/HEIG_PCO_Labo2)
+  *[Labo3 - Gestion d’accès concurrents](https://github.com/DrC0okie/HEIG_PCO_Labo3)
+  *[Labo4]() Coming soon!
+
 ### SYE
 
+  2023 - Systèmes d'exploitation avec Alexandre Corbaz et Anthony Jaccard
+
+  Ce sont des labos "flash" réalisés durant les 2 périodes de labo uniquement
+
+  Coming soon!
+
 ### PST
+
+  2023 avec Jacques Zuber
+
+  [Travail pratique](https://github.com/DrC0okie/HEIG_PST_Labo1)
 
 ### DAI
   
@@ -162,11 +179,12 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   2023 - Sécurité logicielle haut niveau avec Alexandre Duc
 
-  * [Labo1 - ]
+  * [Labo1 - Study Top25 CWE attacks](https://github.com/DrC0okie/HEIG_SLH_Labo1)
 
 ### DAA
 
   2023 - Développement d'application Android avec Fabien Dutoit
 
 * [Labo2 - Activités et fragments](https://github.com/DrC0okie/HEIG_DAA_Labo2)
+* [Labo3 - Approche MVC]() Coming soon!
   
