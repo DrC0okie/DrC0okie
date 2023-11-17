@@ -186,5 +186,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   2023 - Développement d'application Android avec Fabien Dutoit
 
 * [Labo2 - Activités et fragments](https://github.com/DrC0okie/HEIG_DAA_Labo2)
-* [Labo3 - Approche MVC]() Coming soon!
+* [Labo3 - Approche MVC](https://github.com/DrC0okie/HEIG_DAA_Labo3)
+* [Labo4 - Architecture MVVM, Room et RecyclerView]() Coming soon!
   
