@@ -77,7 +77,8 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo1 - Prise en main des threads](https://github.com/DrC0okie/HEIG_PCO_Labo1)
   * [Labo2 - Cracking md5](https://github.com/DrC0okie/HEIG_PCO_Labo2)
   * [Labo3 - Gestion d’accès concurrents](https://github.com/DrC0okie/HEIG_PCO_Labo3)
-  * [Labo4]() Coming soon!
+  * [Labo4 - Gestion de ressources (trains)](https://github.com/DrC0okie/HEIG_PCO_Labo4)
+  * [Labo5 - Modélisation par moniteur de Mesa (baribier)]() Coming soon!
 
 ### SYE
 
