@@ -5,12 +5,21 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 ## Semestre 1
 
 ### PRG1
-  
+
   2021 - Programmation 1 avec Eric Taillard et Stéphane Teixeira Carvalho
-  
+
   * [Labos_PRG1](https://github.com/DrC0okie/HEIG_PRG1_Labos)
 
+| Labo                                     | Note |
+| ---------------------------------------- | ---- |
+| Labo 16 - RSA                            | 4.9  |
+| Labo 31 - génération clés de chiffrement | 5.9  |
+| Labo 34 - Rationnel                      | 6    |
+
+
+
 ### SYL
+
   2021 - Systèmes logiques avec Cédric Bornand et Gabriel Catel Torres Arzur
 
   * [Labo1 - Chechsum](https://github.com/DrC0okie/HEIG_SYL_Labo1)
@@ -18,25 +27,50 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo3 - uArt](https://github.com/DrC0okie/HEIG_SYL_Labo3)
   * [Labo4 - uArt MSS](https://github.com/DrC0okie/HEIG_SYL_Labo4)
 
+| Labo  | Note |
+| ----- | ---- |
+| Labo1 | 5.4  |
+| Labo2 | 6    |
+| Labo3 | 6    |
+| Labo4 | 6    |
+
+
+
 ## Semestre 2
 
 ### ARO
 
   2022 - Architecture des ordinateurs avec Romuald Mosqueron et Mike Meury
-  
+
   * [Labo Decode](https://github.com/DrC0okie/HEIG_ARO_LaboDecode_BDY_TVE)
   * [Labo Fetch](https://github.com/DrC0okie/HEIG_ARO_LaboFetch_BDY_TVE)
   * [Labo Execute](https://github.com/DrC0okie/HEIG_ARO_LaboExecute_BDY_TVE)
   * [Labo Pipeline (partie 1)](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie1_BDY_TVE)
   * [Labo Pipeline (partie 2)](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie2_BDY_TVE)
 
+| Labo                           | Note |
+| ------------------------------ | ---- |
+| Rapport intermédiaire pipeline | 5.9  |
+| Rapport final pipeline         | 6    |
+| Quizz                          | 5.6  |
+
+
+
 ### ISD
 
   2022 - Introduction à la science des données avec Carlos Pena et Thibault Schowing
-  
+
   * [Labo 3 - Animeaux et Gapminder](https://github.com/DrC0okie/Roy_VanHove_ISD_TP3)
   * [Labo 4 - Classification de vins (UCI Wine Data Set)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP4)
   * [Labo 5 - Régression linéaire (Boston Housing Dataset)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP5)
+
+| Labo  | Note |
+| ----- | ---- |
+| Labo3 | 5.8  |
+| Labo4 | 5.6  |
+| Labo5 | 5.9  |
+
+
 
 ### ISI
 
@@ -47,14 +81,21 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 ### PRG2
 
 2022 - Programmation 2 avec René Rentsch & Raphaël Racine
-  
+
   * [Labo1 - Planche de Galton](https://github.com/DrC0okie/HEIG_PRG2_Labo1)
   * [Labo2 - Parking](https://github.com/DrC0okie/HEIG_PRG2_Labo2)
 
+| Labo  | Note |
+| ----- | ---- |
+| Labo1 | 4.8  |
+| Labo2 | 4.5  |
+
+
+
 ### ASD
-  
+
   2022 - Algorithmes et structures de données avec Laura Elena Raileanu et Antoine Rochat
-  
+
   * [Labo 1 - Complexité](https://github.com/DrC0okie/ASD2022-L1-Complexite)
   * [Labo 2 - Recursivité](https://github.com/DrC0okie/ASD2022-L2-Recursivite)
   * [Labo 3 - Tris](https://github.com/DrC0okie/ASD2022-L3-Tris)
@@ -64,13 +105,24 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo 7 - Expressions arithmétiques](https://github.com/DrC0okie/ASD2022-L7-Expressions-arithmetiques)
   * [Labo 8 - Arbre AVL](https://github.com/DrC0okie/HEIG_ASD_Labo8)
 
+| Labo      | Note |
+| --------- | ---- |
+| Labo2     | 5.7  |
+| Labo3     | 5.3  |
+| Labo5 & 6 | 5.5  |
+| Labo8     | 5.9  |
+
+
+
 ## HES d'été 2022
 
 ### PIN
 
   2022 - Projet informatique avec Olivier Cuisenaire et Jean-Marc Bost
-  
+
   [PIN](https://github.com/DrC0okie/HEIG_PIN)
+
+Note 4.8
 
 ### DTS
 
@@ -81,12 +133,20 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 ### PCO
 
   2023 - Programmation concurrente avec Florian Vaussard et Gabriel Catel Torres Arzur
-  
+
   * [Labo1 - Prise en main des threads](https://github.com/DrC0okie/HEIG_PCO_Labo1)
   * [Labo2 - Cracking md5](https://github.com/DrC0okie/HEIG_PCO_Labo2)
   * [Labo3 - Gestion d’accès concurrents](https://github.com/DrC0okie/HEIG_PCO_Labo3)
   * [Labo4 - Gestion de ressources (trains)](https://github.com/DrC0okie/HEIG_PCO_Labo4)
   * [Labo5 - Modélisation par moniteur de Mesa (baribier)]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+| Labo3 | 5.9  |
+| Labo4 |      |
+| Labo5 |      |
+
+
 
 ### SYE
 
@@ -103,9 +163,9 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   [Travail pratique](https://github.com/DrC0okie/HEIG_PST_Labo1)
 
 ### DAI
-  
+
   2022 - Développement d'applications internet avec Jürgen Ehrensberger et Raphaël Racine
-  
+
   * [Labo 1 - Chill Protocol](https://github.com/DrC0okie/DAI-2022-Chill)
   * [Labo 2 - Java IO](https://github.com/DrC0okie/DAI-2022-Java-IO)
   * [Labo 3 - Protocol Design (Calculator)](https://github.com/DrC0okie/DAI-2022-Protocol-design)
@@ -113,20 +173,38 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo 5 - HTTP Infrastructure](https://github.com/DrC0okie/HEIG_DAI_HTTP_Infrastructure)
   * [Labo 6 - UDP Orchestra](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra)
 
+| Labo  | Note |
+| ----- | ---- |
+| Labo2 | 5.8  |
+| Labo4 | 5.9  |
+| Labo5 | 5.4  |
+| Labo6 | 5.7  |
+
+
+
 ### BDR
-  
+
   2022 - Bases de données relationnelles avec Fatemi Nastaran et Christopher Meier
-  
+
   * [Labo 1](https://github.com/DrC0okie/HEIG_BDR_Labo1)
   * [Labo 2](https://github.com/DrC0okie/HEIG_BDR_Labo2)
   * [Labo 3](https://github.com/DrC0okie/HEIG_BDR_Labo3)
   * [Labo 4](https://github.com/DrC0okie/HEIG_BDR_Labo4)
   * [Projet - JustBrewIt](https://github.com/DrC0okie/HEIG_BDR_JustBrewIt)
 
+| Labo   | Note |
+| ------ | ---- |
+| Labo1  | 4.1  |
+| Labo3  | 5.4  |
+| Labo4  | 5.3  |
+| Projet | 5.8  |
+
+
+
 ### POO
-  
+
   2022 - Programmation orientée objet avec Marcel Graf et René Rentsch
-  
+
   * [Labo 1 - The Voice](https://github.com/DrC0okie/HEIG_POO_Labo1)
   * [Labo 2 - UML part 1](https://github.com/DrC0okie/HEIG_POO_Labo2)
   * [Labo 3 - UML part 2](https://github.com/DrC0okie/HEIG_POO_Labo3)
@@ -136,29 +214,54 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo 7 - Hanoi](https://github.com/DrC0okie/HEIG_POO_Labo7)
   * [Labo 8 - Echecs](https://github.com/DrC0okie/HEIG_POO_Labo8)
   * [Labo 9 - The Lord of the Rings (Not finished)](https://github.com/DrC0okie/HEIG_POO_Labo9)
-  
+
+| Labo  | Note |
+| ----- | ---- |
+| Labo3 | 5    |
+| Labo5 | 5.3  |
+| Labo7 | 4.8  |
+| Labo8 | 5.3  |
+
+
+
 
 ## Semestre 4
-  
+
 ### PDL
-  
+
   2023 - Processus de développement logiciel avec Hanna Fouad et Adrien Allemand
 
   * [Labo 2 - Processus de développement d'un projet routier](https://github.com/DrC0okie/HEIG_PDL_Labo2)
   * [Labo 6 - UML Concert](https://github.com/DrC0okie/HEIG_PDL_Labo6)
   * [Labo 7 - Code refactoring](https://github.com/DrC0okie/HEIG_PDL_Labo7)
 
+| Labo  | Note |
+| ----- | ---- |
+| Labo2 | 6    |
+| Labo6 | 5.2  |
+| Labo7 | 5.5  |
+
+
+
 ### SRX
-  
+
   2023 - Sécurité des réseaux avec Linus Gasser et Axel Vallon
-  
+
   * [Labo 1 - NMAP](https://github.com/DrC0okie/HEIG_SRX_Labo1)
   * [Labo 2 - Firewall](https://github.com/DrC0okie/HEIG_SRX_Labo2)
   * [Labo 3 - IDS](https://github.com/DrC0okie/HEIG_SRX_Labo3)
   * [Labo 5 - VPN](https://github.com/DrC0okie/HEIG_SRX_Labo5)
 
+| Labo  | Note |
+| ----- | ---- |
+| Labo1 | 5.7  |
+| Labo2 | 5.6  |
+| Labo3 | 5.7  |
+
+
+
 ### CLD
-  
+
   2023 - Cloud computing avec Marcel Graf et Rémi Poulard
 
   * [Labo 1 - Infrastructure-as-a-Service](https://github.com/DrC0okie/HEIG_CLD_Labo1)
@@ -169,8 +272,16 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo 6 - Ansible & Terraform](https://github.com/DrC0okie/HEIG_CLD_Labo6)
   * [Workshop - AWs IoT Core](https://github.com/DrC0okie/HEIG_CLD_Workshop)
 
+| Labo  | Note |
+| ----- | ---- |
+| Labo2 | 6    |
+| Labo4 | 5.6  |
+| Labo5 | 5.7  |
+
+
+
 ### GRS
-  
+
   2023 - Gestion des réseaux avec Alain Bron et Hacknowledge
 
 ## HES d'été 2023
@@ -178,9 +289,11 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 ### PDG
 
   2023 - Projet de groupe avec Bertil Chapuis et Hanna Fouad
-  
+
   * [Scanalyze](https://github.com/DrC0okie/scanalyze)
-  
+
+Note: 5.8
+
 
 ## Semestre 5
 
@@ -197,4 +310,3 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 * [Labo2 - Activités et fragments](https://github.com/DrC0okie/HEIG_DAA_Labo2)
 * [Labo3 - Approche MVC](https://github.com/DrC0okie/HEIG_DAA_Labo3)
 * [Labo4 - Architecture MVVM, Room et RecyclerView]() Coming soon!
-  
