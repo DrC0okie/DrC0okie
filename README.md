@@ -120,13 +120,15 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   2022 - Projet informatique avec Olivier Cuisenaire et Jean-Marc Bost
 
-  [PIN](https://github.com/DrC0okie/HEIG_PIN)
+  * [PIN](https://github.com/DrC0okie/HEIG_PIN)
 
 Note 4.8
 
 ### DTS
 
   * Coming soon!
+
+Note: 5.8
     
 ## Semestre 3
 
@@ -152,9 +154,31 @@ Note 4.8
 
   2023 - Systèmes d'exploitation avec Alexandre Corbaz et Anthony Jaccard
 
-  Ce sont des labos "flash" réalisés durant les 2 périodes de labo uniquement
+  Les labos 1-7 sont des labos "flash" réalisés durant les 2 périodes de labo uniquement
 
-  Coming soon!
+  * [Labo1 - kernel/user space]() Coming soon!
+  * [Labo2 - application user et mémoire]() Coming soon!
+  * [Labo3 - shell & ISR]() Coming soon!
+  * [Labo4 - Syscalls]() Coming soon!
+  * [Labo5 - Processus]() Coming soon!
+  * [Labo6 - Threads]() Coming soon!
+  * [Labo7 - Pipes]() Coming soon!
+  * [Labo8 - Bataille navale]() Coming soon!
+  * [Labo9 - Ordonnancement]() Coming soon!
+
+| Labo   | Note |
+| ------ | ---- |
+| Labo2  | 6    |
+| Labo3  | 5.9  |
+| Labo4  | 5.7  |
+| Labo5  | 5.7  |
+| Labo6  | 6    |
+| Labo7  | 6    |
+| Labo8  |      |
+| Labo9  |      |
+| Labo10 |      |
+
+
 
 ### PST
 
@@ -284,6 +308,16 @@ Note 4.8
 
   2023 - Gestion des réseaux avec Alain Bron et Hacknowledge
 
+  * [Labo1 - Syslog]() coming soon!
+  * [Labo2 - SNMP / WMI]() coming soon!
+  * [Labo 3 NetCONF]() coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+| Labo1 | 5.6  |
+| Labo2 | 5.8  |
+| Labo3 | 5.6  |
+
 ## HES d'été 2023
 
 ### PDG
@@ -303,6 +337,13 @@ Note: 5.8
 
   * [Labo1 - Study Top25 CWE attacks](https://github.com/DrC0okie/HEIG_SLH_Labo1)
 
+| Labo  | Note |
+| ----- | ---- |
+| Labo1 | 5.8  |
+| Labo2 |      |
+
+
+
 ### DAA
 
   2023 - Développement d'application Android avec Fabien Dutoit
@@ -310,3 +351,9 @@ Note: 5.8
 * [Labo2 - Activités et fragments](https://github.com/DrC0okie/HEIG_DAA_Labo2)
 * [Labo3 - Approche MVC](https://github.com/DrC0okie/HEIG_DAA_Labo3)
 * [Labo4 - Architecture MVVM, Room et RecyclerView]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+| Labo2 | 5.9  |
+| Labo3 |      |
+| Labo4 |      |
