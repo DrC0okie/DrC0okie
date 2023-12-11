@@ -165,6 +165,7 @@ Note: 5.8
   * [Labo7 - Pipes]() Coming soon!
   * [Labo8 - Bataille navale]() Coming soon!
   * [Labo9 - Ordonnancement]() Coming soon!
+  * [Labo 10 - MMU]() Coming soon!
 
 | Labo   | Note |
 | ------ | ---- |
@@ -350,10 +351,11 @@ Note: 5.8
 
 * [Labo2 - Activités et fragments](https://github.com/DrC0okie/HEIG_DAA_Labo2)
 * [Labo3 - Approche MVC](https://github.com/DrC0okie/HEIG_DAA_Labo3)
-* [Labo4 - Architecture MVVM, Room et RecyclerView]() Coming soon!
+* [Labo4 - Architecture MVVM, Room et RecyclerView](https://github.com/DrC0okie/HEIG_DAA_Labo4)
+* [Labo5 - Coroutines](https://github.com/DrC0okie/HEIG_DAA_Labo5) Coming soon!
 
 | Labo  | Note |
 | ----- | ---- |
 | Labo2 | 5.9  |
-| Labo3 |      |
+| Labo3 | 6    |
 | Labo4 |      |
