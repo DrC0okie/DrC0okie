@@ -187,6 +187,8 @@ Note: 5.8
 
   [Travail pratique](https://github.com/DrC0okie/HEIG_PST_Labo1)
 
+  **Note: 6**
+
 ### DAI
 
   2022 - Développement d'applications internet avec Jürgen Ehrensberger et Raphaël Racine
@@ -297,11 +299,12 @@ Note: 5.8
   * [Labo 6 - Ansible & Terraform](https://github.com/DrC0okie/HEIG_CLD_Labo6)
   * [Workshop - AWs IoT Core](https://github.com/DrC0okie/HEIG_CLD_Workshop)
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo2 | 6    |
-| Labo4 | 5.6  |
-| Labo5 | 5.7  |
+| Labo     | Note |
+| -------- | ---- |
+| Labo2    | 6    |
+| Labo4    | 5.6  |
+| Labo5    | 5.7  |
+| Workshop | 5.9  |
 
 
 
