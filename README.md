@@ -20,7 +20,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
 ### SYL
 
-  2021 - Systèmes logiques avec Cédric Bornand et Gabriel Catel Torres Arzur
+  2021 - Systèmes logiques avec Cédric Bornand🫤 et Gabriel Catel Torres Arzur
 
   * [Labo1 - Chechsum](https://github.com/DrC0okie/HEIG_SYL_Labo1)
   * [Labo2 - ALU](https://github.com/DrC0okie/HEIG_SYL_Labo2)
@@ -40,7 +40,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
 ### ARO
 
-  2022 - Architecture des ordinateurs avec Romuald Mosqueron et Mike Meury
+  2022 - Architecture des ordinateurs avec Romuald Mosqueron😎 et Mike Meury
 
   * [Labo Decode](https://github.com/DrC0okie/HEIG_ARO_LaboDecode_BDY_TVE)
   * [Labo Fetch](https://github.com/DrC0okie/HEIG_ARO_LaboFetch_BDY_TVE)
@@ -80,7 +80,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
 ### PRG2
 
-2022 - Programmation 2 avec René Rentsch & Raphaël Racine
+2022 - Programmation 2 avec René Rentsch😱 & Raphaël Racine
 
   * [Labo1 - Planche de Galton](https://github.com/DrC0okie/HEIG_PRG2_Labo1)
   * [Labo2 - Parking](https://github.com/DrC0okie/HEIG_PRG2_Labo2)
@@ -94,7 +94,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
 ### ASD
 
-  2022 - Algorithmes et structures de données avec Laura Elena Raileanu et Antoine Rochat
+  2022 - Algorithmes et structures de données avec Laura Elena Raileanu et Antoine Rochat😎
 
   * [Labo 1 - Complexité](https://github.com/DrC0okie/ASD2022-L1-Complexite)
   * [Labo 2 - Recursivité](https://github.com/DrC0okie/ASD2022-L2-Recursivite)
@@ -213,7 +213,7 @@ Note: 5.8
 
 ### BDR
 
-  2022 - Bases de données relationnelles avec Fatemi Nastaran et Christopher Meier
+  2022 - Bases de données relationnelles avec Fatemi Nastaran et Christopher Meier😎
 
   * [Labo 1](https://github.com/DrC0okie/HEIG_BDR_Labo1)
   * [Labo 2](https://github.com/DrC0okie/HEIG_BDR_Labo2)
@@ -232,7 +232,7 @@ Note: 5.8
 
 ### POO
 
-  2022 - Programmation orientée objet avec Marcel Graf et René Rentsch
+  2022 - Programmation orientée objet avec Marcel Graf et René Rentsch😱
 
   * [Labo 1 - The Voice](https://github.com/DrC0okie/HEIG_POO_Labo1)
   * [Labo 2 - UML part 1](https://github.com/DrC0okie/HEIG_POO_Labo2)
@@ -258,7 +258,7 @@ Note: 5.8
 
 ### PDL
 
-  2023 - Processus de développement logiciel avec Hanna Fouad et Adrien Allemand
+  2023 - Processus de développement logiciel avec Hanna Fouad😎 et Adrien Allemand
 
   * [Labo 2 - Processus de développement d'un projet routier](https://github.com/DrC0okie/HEIG_PDL_Labo2)
   * [Labo 6 - UML Concert](https://github.com/DrC0okie/HEIG_PDL_Labo6)
@@ -328,7 +328,7 @@ Note: 5.8
 
 ### PDG
 
-  2023 - Projet de groupe avec Bertil Chapuis et Hanna Fouad
+  2023 - Projet de groupe avec Bertil Chapuis😎 et Hanna Fouad😎
 
   * [Scanalyze](https://github.com/DrC0okie/scanalyze)
 
@@ -339,7 +339,7 @@ Note: 5.8
 
 ### SLH
 
-  2023 - Sécurité logicielle haut niveau avec Alexandre Duc
+  2023 - Sécurité logicielle haut niveau avec Alexandre Duc😎
 
   * [Labo1 - Study Top25 CWE attacks](https://github.com/DrC0okie/HEIG_SLH_Labo1)
 
