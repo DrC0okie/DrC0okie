@@ -1,6 +1,6 @@
 # HEIG-VD
 
-Cette page regroupe la liste des repos associés aux laboratoires des cours que j'ai suivis à la HEIG-VD. Bien que chaque dépôt soit en libre accès, il est important de noter qu'ils sont dans l'état où ils ont été laissés à la conclusion de chaque laboratoire. Par conséquent, je ne peux pas garantir que le code soit exempt de bugs, optimisé ou entièrement fonctionnel. Je suggère vivement d'aborder ces repos avec un œil critique et à ne pas les considérer comme des solutions finales ou irréprochables, mais plutot comme une ressource potentiellement utiles, en cas de blocage technique ou lorsque la charge de travail devient écrasante, comme cela peut fréquemment arriver en fin de semestre.
+Cette page regroupe la liste des repos associés aux laboratoires des cours que j'ai suivis à la HEIG-VD. Servez-vous =)
 
 ## Semestre 1
 
