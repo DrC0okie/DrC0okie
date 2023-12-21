@@ -177,7 +177,7 @@ Note: 5.8
 | Labo5  | 5.7  |
 | Labo6  | 6    |
 | Labo7  | 6    |
-| Labo8  |      |
+| Labo8  | 5.8  |
 | Labo9  |      |
 | Labo10 |      |
 
