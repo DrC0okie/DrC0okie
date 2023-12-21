@@ -140,13 +140,15 @@ Note: 5.8
   * [Labo2 - Cracking md5](https://github.com/DrC0okie/HEIG_PCO_Labo2)
   * [Labo3 - Gestion d’accès concurrents](https://github.com/DrC0okie/HEIG_PCO_Labo3)
   * [Labo4 - Gestion de ressources (trains)](https://github.com/DrC0okie/HEIG_PCO_Labo4)
-  * [Labo5 - Modélisation par moniteur de Mesa (baribier)]() Coming soon!
+  * [Labo5 - Modélisation par moniteur de Mesa (baribier)](https://github.com/DrC0okie/HEIG_PCO_Labo5)
+  * [Labo6 - ]() Coming soon!
 
 | Labo  | Note |
 | ----- | ---- |
 | Labo3 | 5.9  |
-| Labo4 |      |
+| Labo4 | 5.8  |
 | Labo5 |      |
+| Labo6 |      |
 
 
 
@@ -355,10 +357,14 @@ Note: 5.8
 * [Labo2 - Activités et fragments](https://github.com/DrC0okie/HEIG_DAA_Labo2)
 * [Labo3 - Approche MVC](https://github.com/DrC0okie/HEIG_DAA_Labo3)
 * [Labo4 - Architecture MVVM, Room et RecyclerView](https://github.com/DrC0okie/HEIG_DAA_Labo4)
-* [Labo5 - Coroutines](https://github.com/DrC0okie/HEIG_DAA_Labo5) Coming soon!
+* [Labo5 - Coroutines](https://github.com/DrC0okie/HEIG_DAA_Labo5)
+* [Labo6 - application communicante](https://github.com/DrC0okie/HEIG_DAA_Labo5) Coming soon!
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo2 | 5.9  |
-| Labo3 | 6    |
-| Labo4 |      |
+| Labo         | Note |
+| ------------ | ---- |
+| Labo2        | 5.9  |
+| Labo3        | 6    |
+| Labo4        |      |
+| Labo5        |      |
+| Labo6        |      |
+| présentation |      |
