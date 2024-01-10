@@ -167,7 +167,10 @@ Note: 5.8
   * [Labo7 - Pipes]() Coming soon!
   * [Labo8 - Bataille navale]() Coming soon!
   * [Labo9 - Ordonnancement]() Coming soon!
-  * [Labo 10 - MMU]() Coming soon!
+  * [Labo 10 - Gestion memoire]() Coming soon!
+  * [Labo 11 - Pagination - part 1]() Coming soon!
+  * [Labo 12 - Pagination - part 2]() Coming soon!
+  * [Labo 13 - LRU & WSClock]() Coming soon!
 
 | Labo   | Note |
 | ------ | ---- |
@@ -178,8 +181,9 @@ Note: 5.8
 | Labo6  | 6    |
 | Labo7  | 6    |
 | Labo8  | 5.8  |
-| Labo9  |      |
-| Labo10 |      |
+| Labo11 | 5.7  |
+| Labo12 | 5.8  |
+| Labo13 |      |
 
 
 
@@ -342,11 +346,14 @@ Note: 5.8
   2023 - Sécurité logicielle haut niveau avec Alexandre Duc😎
 
   * [Labo1 - Study Top25 CWE attacks](https://github.com/DrC0okie/HEIG_SLH_Labo1)
+  * [Labo2 - Web app authentication](https://github.com/DrC0okie/HEIG_SLH_Labo2)
+  * [Labo3 - Authorization with casbin](https://github.com/DrC0okie/HEIG_SLH_Labo3) Coming soon!
 
 | Labo  | Note |
 | ----- | ---- |
 | Labo1 | 5.8  |
 | Labo2 |      |
+| Labo3 |      |
 
 
 
@@ -364,7 +371,7 @@ Note: 5.8
 | ------------ | ---- |
 | Labo2        | 5.9  |
 | Labo3        | 6    |
-| Labo4        |      |
+| Labo4        | 5.9  |
 | Labo5        |      |
 | Labo6        |      |
 | présentation |      |
