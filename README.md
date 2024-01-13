@@ -268,11 +268,11 @@ Note: 5.8
   * [Labo 6 - UML Concert](https://github.com/DrC0okie/HEIG_PDL_Labo6)
   * [Labo 7 - Code refactoring](https://github.com/DrC0okie/HEIG_PDL_Labo7)
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo2 | 6    |
-| Labo6 | 5.2  |
-| Labo7 | 5.5  |
+| Labo  | Note | Feedback |
+| ----- | ---- | -------- |
+| Labo2 | 6    | [feedback](https://github.com/DrC0okie/HEIG_PDL_Labo2/blob/master/feedback.md) |
+| Labo6 | 5.2  |          |
+| Labo7 | 5.5  |          |
 
 
 
@@ -285,11 +285,11 @@ Note: 5.8
   * [Labo 3 - IDS](https://github.com/DrC0okie/HEIG_SRX_Labo3)
   * [Labo 5 - VPN](https://github.com/DrC0okie/HEIG_SRX_Labo5)
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo1 | 5.7  |
-| Labo2 | 5.6  |
-| Labo3 | 5.7  |
+| Labo  | Note | Feedback |
+| ----- | ---- | -------- |
+| Labo2 | 5.7  | [feedback](https://github.com/DrC0okie/HEIG_SRX_Labo2/blob/master/feedback.md) |
+| Labo3 | 5.6  | [feedback](https://github.com/DrC0okie/HEIG_SRX_Labo3/blob/master/feedback.md) |
+| Labo5 | 5.7  | [feedback](https://github.com/DrC0okie/HEIG_SRX_Labo5/blob/master/feedback.md) |
 
 
 
