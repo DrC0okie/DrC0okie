@@ -318,9 +318,9 @@ Note: 5.8
 
   2023 - Gestion des réseaux avec Alain Bron et Hacknowledge
 
-  * [Labo1 - Syslog]() coming soon!
-  * [Labo2 - SNMP / WMI]() coming soon!
-  * [Labo 3 NetCONF]() coming soon!
+  * [Labo1 - Syslog](https://github.com/DrC0okie/HEIG_GRS_Labo1)
+  * [Labo2 - SNMP / WMI](https://github.com/DrC0okie/HEIG_GRS_Labo2)
+  * [Labo3 - NetCONF](https://github.com/DrC0okie/HEIG_GRS_Labo3)
 
 | Labo  | Note |
 | ----- | ---- |
