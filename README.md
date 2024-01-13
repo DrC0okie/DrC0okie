@@ -349,13 +349,11 @@ Note: 5.8
   * [Labo2 - Web app authentication](https://github.com/DrC0okie/HEIG_SLH_Labo2)
   * [Labo3 - Authorization with casbin](https://github.com/DrC0okie/HEIG_SLH_Labo3) Coming soon!
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo1 | 5.8  | [feedback](https://github.com/DrC0okie/HEIG_SLH_Labo1/blob/main/feedback.md)
-| Labo2 | 5.5  | [feedback](https://github.com/DrC0okie/HEIG_SLH_Labo2/blob/main/feedback.md)
-| Labo3 |      |
-
-
+| Labo  | Note | Feedback |
+| ----- | ---- | -------- |
+| Labo1 | 5.8  | [feedback](https://github.com/DrC0okie/HEIG_SLH_Labo1/blob/main/feedback.md) |
+| Labo2 | 5.5  | [feedback](https://github.com/DrC0okie/HEIG_SLH_Labo2/blob/main/feedback.md) |
+| Labo3 |      |          |
 
 ### DAA
 
