@@ -352,7 +352,7 @@ Note: 5.8
 | Labo  | Note |
 | ----- | ---- |
 | Labo1 | 5.8  |
-| Labo2 |      |
+| Labo2 | 5.5  |
 | Labo3 |      |
 
 
