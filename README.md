@@ -10,11 +10,11 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   * [Labos_PRG1](https://github.com/DrC0okie/HEIG_PRG1_Labos)
 
-| Labo                                     | Note |
-| ---------------------------------------- | ---- |
-| Labo 16 - RSA                            | 4.9  |
-| Labo 31 - génération clés de chiffrement | 5.9  |
-| Labo 34 - Rationnel                      | 6    |
+| Labo                                     | Note | Feedback |
+| ---------------------------------------- | ---- | -------- |
+| Labo 16 - RSA                            | 4.9  | [feedback](https://github.com/DrC0okie/HEIG_PRG1_Labos/blob/main/HEIG_PRG1_Labo16/Cor04_VanHove_Labo16.cpp) |
+| Labo 31 - génération clés de chiffrement | 5.9  | [feedback](https://github.com/DrC0okie/HEIG_PRG1_Labos/blob/main/HEIG_PRG1_Labo31/feedback.md) |
+| Labo 34 - Rationnel                      | 6    | [feedback](https://github.com/DrC0okie/HEIG_PRG1_Labos/blob/main/HEIG_PRG1_labo34/feedback.md) |
 
 
 
@@ -27,12 +27,12 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo3 - uArt](https://github.com/DrC0okie/HEIG_SYL_Labo3)
   * [Labo4 - uArt MSS](https://github.com/DrC0okie/HEIG_SYL_Labo4)
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo1 | 5.4  |
-| Labo2 | 6    |
-| Labo3 | 6    |
-| Labo4 | 6    |
+| Labo  | Note | Quizz |
+| ----- | ---- | ----- |
+| Labo1 | 5.4  | [quizz](https://github.com/DrC0okie/HEIG_SYL_Labo1/blob/main/Quizz_labo_Checksum.pdf) |
+| Labo2 | 6    |       |
+| Labo3 | 6    | [quizz](https://github.com/DrC0okie/HEIG_SYL_Labo3/blob/main/Quizz_labo_uART.pdf) |
+| Labo4 | 6    |       |
 
 
 
@@ -48,11 +48,11 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo Pipeline (partie 1)](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie1_BDY_TVE)
   * [Labo Pipeline (partie 2)](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie2_BDY_TVE)
 
-| Labo                           | Note |
-| ------------------------------ | ---- |
-| Rapport intermédiaire pipeline | 5.9  |
-| Rapport final pipeline         | 6    |
-| Quizz                          | 5.6  |
+| Labo               | Note | Feedback |
+| ------------------ | ---- | -------- |
+| Rapport pipeline 1 | 5.9  |          |
+| Rapport pipeline 2 | 6    |          |
+| Quizz              | 5.6  | [feedback](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie2_BDY_TVE/blob/master/quiz_pipeline_A_solution.pdf) |
 
 
 
@@ -85,10 +85,10 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo1 - Planche de Galton](https://github.com/DrC0okie/HEIG_PRG2_Labo1)
   * [Labo2 - Parking](https://github.com/DrC0okie/HEIG_PRG2_Labo2)
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo1 | 4.8  |
-| Labo2 | 4.5  |
+| Labo  | Note | Feedback |
+| ----- | ---- | -------- |
+| Labo1 | 4.8  |          |
+| Labo2 | 4.5  | [feedback](https://github.com/DrC0okie/HEIG_PRG2_Labo2/blob/main/Labo2_feedback.pdf)
 
 
 
@@ -105,12 +105,12 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo 7 - Expressions arithmétiques](https://github.com/DrC0okie/ASD2022-L7-Expressions-arithmetiques)
   * [Labo 8 - Arbre AVL](https://github.com/DrC0okie/HEIG_ASD_Labo8)
 
-| Labo      | Note |
-| --------- | ---- |
-| Labo2     | 5.7  |
-| Labo3     | 5.3  |
-| Labo5 & 6 | 5.5  |
-| Labo8     | 5.9  |
+| Labo      | Note | feedback |
+| --------- | ---- | -------- |
+| Labo2     | 5.7  | [feedback](https://github.com/DrC0okie/ASD2022-L2-Recursivite/blob/main/Labo2_Groupe05_feedback.pdf) |
+| Labo3     | 5.3  | [feedback](https://github.com/DrC0okie/ASD2022-L3-Tris/blob/main/Labo3_Groupe05_feedback.pdf) |
+| Labo5 & 6 | 5.5  | [feedback](https://github.com/DrC0okie/ASD2022-L6-Liste-Simplement-chainee/blob/main/Labos_5_6_Groupe05_feedback.pdf) |
+| Labo8     | 5.9  | [feedback](https://github.com/DrC0okie/ASD2022-L8-Arbre-AVL/blob/master/Labo8_Groupe05_feedback.pdf) |
 
 
 
@@ -148,7 +148,7 @@ Note: 5.8
 | Labo3 | 5.9  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo3/blob/main/feedback.md) |
 | Labo4 | 5.8  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo4/blob/main/feedback.md) |
 | Labo5 | 6.0  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo5/blob/main/feedback.md) |
-| Labo6 |      |
+| Labo6 |      |  |
 
 
 
@@ -206,12 +206,12 @@ Note: 5.8
   * [Labo 5 - HTTP Infrastructure](https://github.com/DrC0okie/HEIG_DAI_HTTP_Infrastructure)
   * [Labo 6 - UDP Orchestra](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra)
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo2 | 5.8  |
-| Labo4 | 5.9  |
-| Labo5 | 5.4  |
-| Labo6 | 5.7  |
+| Labo  | Note | Feedback |
+| ----- | ---- | -------- |
+| Labo2 | 5.8  |          |
+| Labo4 | 5.9  | [feedback](https://github.com/DrC0okie/HEIG_DAI_SMTP/blob/master/DAI%202022%20-%20SMTP.xlsx) |
+| Labo5 | 5.4  | [feedback](https://github.com/DrC0okie/HEIG_DAI_HTTP_Infrastructure/blob/main/DAI%202022%20-%20Infra%20Web.xlsx) |
+| Labo6 | 5.7  | [feedback](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra/blob/main/DAI%202022%20-%20UDP%20Orchestra.xlsx) |
 
 
 
