@@ -143,11 +143,11 @@ Note: 5.8
   * [Labo5 - Modélisation par moniteur de Mesa (baribier)](https://github.com/DrC0okie/HEIG_PCO_Labo5)
   * [Labo6 - ]() Coming soon!
 
-| Labo  | Note |
-| ----- | ---- |
-| Labo3 | 5.9  |
-| Labo4 | 5.8  |
-| Labo5 | 6.0  |
+| Labo  | Note | Feedback |
+| ----- | ---- | -------- |
+| Labo3 | 5.9  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo3/blob/main/feedback.md) |
+| Labo4 | 5.8  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo4/blob/main/feedback.md) |
+| Labo5 | 6.0  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo5/blob/main/feedback.md) |
 | Labo6 |      |
 
 
