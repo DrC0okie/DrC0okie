@@ -22,7 +22,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   2021 - Systèmes logiques avec Cédric Bornand🫤 et Gabriel Catel Torres Arzur
 
-  * [Labo1 - Chechsum](https://github.com/DrC0okie/HEIG_SYL_Labo1)
+  * [Labo1 - Checksum](https://github.com/DrC0okie/HEIG_SYL_Labo1)
   * [Labo2 - ALU](https://github.com/DrC0okie/HEIG_SYL_Labo2)
   * [Labo3 - uArt](https://github.com/DrC0okie/HEIG_SYL_Labo3)
   * [Labo4 - uArt MSS](https://github.com/DrC0okie/HEIG_SYL_Labo4)
