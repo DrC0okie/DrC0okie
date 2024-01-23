@@ -20,7 +20,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
 ### SYL
 
-  2021 - Systèmes logiques avec Cédric Bornand🫤 et Gabriel Catel Torres Arzur
+  2021 - Systèmes logiques avec Cédric Bornand et Gabriel Catel Torres Arzur
 
   * [Labo1 - Checksum](https://github.com/DrC0okie/HEIG_SYL_Labo1)
   * [Labo2 - ALU](https://github.com/DrC0okie/HEIG_SYL_Labo2)
