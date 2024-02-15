@@ -71,13 +71,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo5 | 5.9  |
 
 
-
-### ISI
-
-  2022 - Introduction à la sécurité informatique avec Abraham Rubinstein et Nathan Séville
-
-  Coming soon!
-
 ### PRG2
 
 2022 - Programmation 2 avec René Rentsch😱 & Raphaël Racine
@@ -122,13 +115,15 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   * [PIN](https://github.com/DrC0okie/HEIG_PIN)
 
-Note 4.8
+**Note 4.8**
 
 ### DTS
 
-  * Coming soon!
+  2022 - Design thinking & sprint chez QoQa
 
-Note: 5.8
+  * [DTS](https://github.com/DrC0okie/HEIG_DTS)
+
+**Note: 5.8**
     
 ## Semestre 3
 
