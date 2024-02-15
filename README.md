@@ -157,20 +157,20 @@ Note: 5.8
 
   Les labos 1-7 sont des labos "flash" réalisés durant les 2 périodes de labo uniquement
 
-  * [Labo1 - kernel/user space]() Coming soon!
-  * [Labo2 - application user et mémoire]() Coming soon!
-  * [Labo3 - shell & ISR]() Coming soon!
-  * [Labo4 - Syscalls]() Coming soon!
-  * [Labo5 - Processus]() Coming soon!
-  * [Labo6 - Threads]() Coming soon!
-  * [Labo7 - Pipes]() Coming soon!
-  * [Labo8 - Bataille navale]() Coming soon!
-  * [Labo9 - Ordonnancement]() Coming soon!
-  * [Labo 10 - Gestion memoire]() Coming soon!
-  * [Labo 11 - Pagination - part 1]() Coming soon!
-  * [Labo 12 - Pagination - part 2]() Coming soon!
-  * [Labo 13 - LRU & WSClock]() Coming soon!
-  * [Labo14 - File system (ls - ln)]() Coming soon!
+  * [Labo1 - kernel/user space](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab1)
+  * [Labo2 - application user et mémoire](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab2)
+  * [Labo3 - shell & ISR](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab3)
+  * [Labo4 - Syscalls](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab4)
+  * [Labo5 - Processus](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab5)
+  * [Labo6 - Threads](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab6)
+  * [Labo7 - Pipes](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab7)
+  * [Labo8 - Battleship](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab8)
+  * [Labo9 - Ordonnancement](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab9)
+  * [Labo 10 - Gestion memoire](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab10)
+  * [Labo 11 - Pagination - part 1](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab11)
+  * [Labo 12 - Pagination - part 2](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab12)
+  * [Labo 13 - LRU & WSClock](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab13)
+  * [Labo14 - File system (ls - ln)](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab14)
 
 | Labo   | Note |
 | ------ | ---- |
