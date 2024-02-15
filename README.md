@@ -1,6 +1,6 @@
 # HEIG-VD
 
-Cette page regroupe la liste des repos associés aux laboratoires des cours que j'ai suivis à la HEIG-VD. Servez-vous =)
+Cette page regroupe la liste des repos associés aux laboratoires des cours que j'ai suivis à la HEIG-VD.
 
 ## Semestre 1
 
