@@ -2,6 +2,7 @@
 
 Cette page regroupe la liste des repos associés aux laboratoires des cours que j'ai suivis à la HEIG-VD.
 
+
 ## Semestre 1
 
 ### PRG1
@@ -31,6 +32,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo2 | 6    |       |
 | Labo3 | 6    | [quizz](https://github.com/DrC0okie/HEIG_SYL_Labo3/blob/main/Quizz_labo_uART.pdf) |
 | Labo4 | 6    |       |
+
 
 ## Semestre 2
 
@@ -96,6 +98,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo5 & 6 | 5.5  | [feedback](https://github.com/DrC0okie/ASD2022-L6-Liste-Simplement-chainee/blob/main/Labos_5_6_Groupe05_feedback.pdf) |
 | Labo8     | 5.9  | [feedback](https://github.com/DrC0okie/ASD2022-L8-Arbre-AVL/blob/master/Labo8_Groupe05_feedback.pdf) |
 
+
 ## HES d'été #1
 
 ### PIN
@@ -113,7 +116,8 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [DTS](https://github.com/DrC0okie/HEIG_DTS)
 
 **Note: 5.8**
-    
+
+
 ## Semestre 3
 
 ### PCO
@@ -230,6 +234,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo5 | 5.3  |
 | Labo7 | 4.8  |
 | Labo8 | 5.3  |
+
 
 ## Semestre 4
 
@@ -364,6 +369,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 |       |      |
 |       |      |
 
+
 ## HES d'été #2
 
 ### PDG
@@ -373,6 +379,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Scanalyze](https://github.com/DrC0okie/scanalyze)
 
 Note: 5.8
+
 
 ## Semestre 5
 
@@ -407,6 +414,7 @@ Note: 5.8
 | Labo4        | 5.9  |
 | Labo5        | 5.7  |
 | présentation | 6    |
+
 
 ## Semestre 6
 
