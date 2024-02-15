@@ -141,14 +141,13 @@ Note: 5.8
   * [Labo3 - Gestion d’accès concurrents](https://github.com/DrC0okie/HEIG_PCO_Labo3)
   * [Labo4 - Gestion de ressources (trains)](https://github.com/DrC0okie/HEIG_PCO_Labo4)
   * [Labo5 - Modélisation par moniteur de Mesa (baribier)](https://github.com/DrC0okie/HEIG_PCO_Labo5)
-  * [Labo6 - ]() Coming soon!
+  * [Labo6 - Producteur-Consommateur pour calcul différé (Hoare)](https://github.com/DrC0okie/HEIG_PCO_Labo6)
 
 | Labo  | Note | Feedback |
 | ----- | ---- | -------- |
 | Labo3 | 5.9  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo3/blob/main/feedback.md) |
 | Labo4 | 5.8  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo4/blob/main/feedback.md) |
 | Labo5 | 6.0  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo5/blob/main/feedback.md) |
-| Labo6 |      |  |
 
 
 
@@ -171,6 +170,7 @@ Note: 5.8
   * [Labo 11 - Pagination - part 1]() Coming soon!
   * [Labo 12 - Pagination - part 2]() Coming soon!
   * [Labo 13 - LRU & WSClock]() Coming soon!
+  * [Labo14 - File system (ls - ln)]() Coming soon!
 
 | Labo   | Note |
 | ------ | ---- |
@@ -183,7 +183,7 @@ Note: 5.8
 | Labo8  | 5.8  |
 | Labo11 | 5.7  |
 | Labo12 | 5.8  |
-| Labo13 |      |
+| Labo13 | 6    |
 
 
 
@@ -347,13 +347,13 @@ Note: 5.8
 
   * [Labo1 - Study Top25 CWE attacks](https://github.com/DrC0okie/HEIG_SLH_Labo1)
   * [Labo2 - Web app authentication](https://github.com/DrC0okie/HEIG_SLH_Labo2)
-  * [Labo3 - Authorization with casbin](https://github.com/DrC0okie/HEIG_SLH_Labo3) Coming soon!
+  * [Labo3 - Authorization with casbin](https://github.com/DrC0okie/HEIG_SLH_Labo3)
 
 | Labo  | Note | Feedback |
 | ----- | ---- | -------- |
 | Labo1 | 5.8  | [feedback](https://github.com/DrC0okie/HEIG_SLH_Labo1/blob/main/feedback.md) |
 | Labo2 | 5.5  | [feedback](https://github.com/DrC0okie/HEIG_SLH_Labo2/blob/main/feedback.md) |
-| Labo3 |      |          |
+| Labo3 | 6    |          |
 
 ### DAA
 
@@ -363,6 +363,7 @@ Note: 5.8
 * [Labo3 - Approche MVC](https://github.com/DrC0okie/HEIG_DAA_Labo3)
 * [Labo4 - Architecture MVVM, Room et RecyclerView](https://github.com/DrC0okie/HEIG_DAA_Labo4)
 * [Labo5 - Coroutines](https://github.com/DrC0okie/HEIG_DAA_Labo5)
+* [Présentation - Bluetooth Low Energy](https://github.com/DrC0okie/HEIG_DAA_Workshop)
 
 | Labo         | Note |
 | ------------ | ---- |
@@ -370,4 +371,4 @@ Note: 5.8
 | Labo3        | 6    |
 | Labo4        | 5.9  |
 | Labo5        | 5.7  |
-| présentation |      |
+| présentation | 6    |
