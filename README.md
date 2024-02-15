@@ -16,8 +16,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo 31 - génération clés de chiffrement | 5.9  | [feedback](https://github.com/DrC0okie/HEIG_PRG1_Labos/blob/main/HEIG_PRG1_Labo31/feedback.md) |
 | Labo 34 - Rationnel                      | 6    | [feedback](https://github.com/DrC0okie/HEIG_PRG1_Labos/blob/main/HEIG_PRG1_labo34/feedback.md) |
 
-
-
 ### SYL
 
   2021 - Systèmes logiques avec Cédric Bornand et Gabriel Catel Torres Arzur
@@ -33,8 +31,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo2 | 6    |       |
 | Labo3 | 6    | [quizz](https://github.com/DrC0okie/HEIG_SYL_Labo3/blob/main/Quizz_labo_uART.pdf) |
 | Labo4 | 6    |       |
-
-
 
 ## Semestre 2
 
@@ -54,8 +50,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Rapport pipeline 2 | 6    |          |
 | Quizz              | 5.6  | [feedback](https://github.com/DrC0okie/HEIG_ARO_LaboPipelinePartie2_BDY_TVE/blob/master/quiz_pipeline_A_solution.pdf) |
 
-
-
 ### ISD
 
   2022 - Introduction à la science des données avec Carlos Pena et Thibault Schowing
@@ -70,7 +64,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo4 | 5.6  |
 | Labo5 | 5.9  |
 
-
 ### PRG2
 
 2022 - Programmation 2 avec René Rentsch😱 & Raphaël Racine
@@ -82,8 +75,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | ----- | ---- | -------- |
 | Labo1 | 4.8  |          |
 | Labo2 | 4.5  | [feedback](https://github.com/DrC0okie/HEIG_PRG2_Labo2/blob/main/Labo2_feedback.pdf)
-
-
 
 ### ASD
 
@@ -105,9 +96,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo5 & 6 | 5.5  | [feedback](https://github.com/DrC0okie/ASD2022-L6-Liste-Simplement-chainee/blob/main/Labos_5_6_Groupe05_feedback.pdf) |
 | Labo8     | 5.9  | [feedback](https://github.com/DrC0okie/ASD2022-L8-Arbre-AVL/blob/master/Labo8_Groupe05_feedback.pdf) |
 
-
-
-## HES d'été 2022
+## HES d'été #1
 
 ### PIN
 
@@ -144,8 +133,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo4 | 5.8  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo4/blob/main/feedback.md) |
 | Labo5 | 6.0  | [feedback](https://github.com/DrC0okie/HEIG_PCO_Labo5/blob/main/feedback.md) |
 
-
-
 ### SYE
 
   2023 - Systèmes d'exploitation avec Alexandre Corbaz et Anthony Jaccard
@@ -180,8 +167,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo12 | 5.8  |
 | Labo13 | 6    |
 
-
-
 ### PST
 
   2023 avec Jacques Zuber
@@ -208,8 +193,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo5 | 5.4  | [feedback](https://github.com/DrC0okie/HEIG_DAI_HTTP_Infrastructure/blob/main/DAI%202022%20-%20Infra%20Web.xlsx) |
 | Labo6 | 5.7  | [feedback](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra/blob/main/DAI%202022%20-%20UDP%20Orchestra.xlsx) |
 
-
-
 ### BDR
 
   2022 - Bases de données relationnelles avec Fatemi Nastaran et Christopher Meier😎
@@ -226,8 +209,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo3  | 5.4  |
 | Labo4  | 5.3  |
 | Projet | 5.8  |
-
-
 
 ### POO
 
@@ -250,9 +231,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo7 | 4.8  |
 | Labo8 | 5.3  |
 
-
-
-
 ## Semestre 4
 
 ### PDL
@@ -269,8 +247,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo6 | 5.2  |          |
 | Labo7 | 5.5  |          |
 
-
-
 ### SRX
 
   2023 - Sécurité des réseaux avec Linus Gasser et Axel Vallon
@@ -285,8 +261,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo2 | 5.7  | [feedback](https://github.com/DrC0okie/HEIG_SRX_Labo2/blob/master/feedback.md) |
 | Labo3 | 5.6  | [feedback](https://github.com/DrC0okie/HEIG_SRX_Labo3/blob/master/feedback.md) |
 | Labo5 | 5.7  | [feedback](https://github.com/DrC0okie/HEIG_SRX_Labo5/blob/master/feedback.md) |
-
-
 
 ### CLD
 
@@ -307,8 +281,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo5    | 5.7  |
 | Workshop | 5.9  |
 
-
-
 ### GRS
 
   2023 - Gestion des réseaux avec Alain Bron et Hacknowledge
@@ -323,7 +295,76 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo2 | 5.8  |
 | Labo3 | 5.6  |
 
-## HES d'été 2023
+### POA
+
+  2024 - Programmation orientée objet avancée avec Grégoire Krähenbühl et Grégoire Decorvet
+
+  * [Labo1 - ]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+|       |      |
+|       |      |
+
+### MCR
+
+  2024 - Modèles de conception réutilisables avec Pier Donini et Sébastien Rosat
+
+  
+  * [Labo1 - ]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+|       |      |
+|       |      |
+
+### WEB
+
+  2024 - Technologies web avec Olivier Tischhauser
+
+  
+  * [Labo1 - ]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+|       |      |
+|       |      |
+
+### ARN
+
+  2024 - Apprentissage par réseaux de neurones artificiels avec Andres Perez Uribe
+  
+  
+  * [Labo1 - ]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+|       |      |
+|       |      |
+
+### GRE
+
+  2024 - Graphes et réseaux avec Jean-François Hêche et Thibaud Franchetti
+    
+  * [Labo1 - ]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+|       |      |
+|       |      |
+
+### EAL
+
+  2024 - Ethique et aspects légaux avec Eric Bruyndonckx
+
+  * [Labo1 - ]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+|       |      |
+|       |      |
+
+## HES d'été #2
 
 ### PDG
 
@@ -332,7 +373,6 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Scanalyze](https://github.com/DrC0okie/scanalyze)
 
 Note: 5.8
-
 
 ## Semestre 5
 
@@ -367,3 +407,17 @@ Note: 5.8
 | Labo4        | 5.9  |
 | Labo5        | 5.7  |
 | présentation | 6    |
+
+## Semestre 6
+
+### ADS
+
+  2024 - Administration système avec Fabien Dutoit
+  
+  * [Labo1 - ]() Coming soon!
+
+| Labo  | Note |
+| ----- | ---- |
+|       |      |
+|       |      |
+|       |      |
