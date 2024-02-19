@@ -422,7 +422,7 @@ Note: 5.8
 
   2024 - Administration système avec Fabien Dutoit
   
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - The command line](https://github.com/DrC0okie/HEIG_ADS_Labo1)
 
 | Labo  | Note |
 | ----- | ---- |
