@@ -316,7 +316,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   2024 - Modèles de conception réutilisables avec Pier Donini et Sébastien Rosat
 
   
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - Clock](https://github.com/DrC0okie/HEIG_MCR_Labo1)
 
 | Labo  | Note |
 | ----- | ---- |
