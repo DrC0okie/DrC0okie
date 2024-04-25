@@ -56,7 +56,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   2022 - Introduction à la science des données avec Carlos Pena et Thibault Schowing
 
-  * [Labo 3 - Animeaux et Gapminder](https://github.com/DrC0okie/Roy_VanHove_ISD_TP3)
+  * [Labo 3 - Animaux et Gapminder](https://github.com/DrC0okie/Roy_VanHove_ISD_TP3)
   * [Labo 4 - Classification de vins (UCI Wine Data Set)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP4)
   * [Labo 5 - Régression linéaire (Boston Housing Dataset)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP5)
 
@@ -85,7 +85,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo 1 - Complexité](https://github.com/DrC0okie/ASD2022-L1-Complexite)
   * [Labo 2 - Recursivité](https://github.com/DrC0okie/ASD2022-L2-Recursivite)
   * [Labo 3 - Tris](https://github.com/DrC0okie/ASD2022-L3-Tris)
-  * [Labo 4 - Allocation Dynamique](https://github.com/DrC0okie/ASD2022-L4-Allocation-Dynamique)
+  * [Labo 4 - Allocation dynamique](https://github.com/DrC0okie/ASD2022-L4-Allocation-Dynamique)
   * [Labo 5 - Buffer circulaire](https://github.com/DrC0okie/ASD2022-L5-Buffer-circulaire-de-capacite-variable)
   * [Labo 6 - Liste simplement chainée](https://github.com/DrC0okie/ASD2022-L6-Liste-Simplement-chainee)
   * [Labo 7 - Expressions arithmétiques](https://github.com/DrC0okie/ASD2022-L7-Expressions-arithmetiques)
@@ -141,7 +141,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   2023 - Systèmes d'exploitation avec Alexandre Corbaz et Anthony Jaccard
 
-  Les labos 1-7 sont des labos "flash" réalisés durant les 2 périodes de labo uniquement
+  *Les labos 1-7 sont des labos "flash" réalisés durant les 2 périodes de labo uniquement*
 
   * [Labo1 - kernel/user space](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab1)
   * [Labo2 - application user et mémoire](https://github.com/DrC0okie/HEIG_SYE/tree/main/lab2)
@@ -304,12 +304,14 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   2024 - Programmation orientée objet avancée avec Grégoire Krähenbühl et Grégoire Decorvet
 
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - Matrix reloaded]() Coming soon!
+  * [Labo2 - Squadron]() Coming soon!
+  * [Labo3 - River]() Coming soon!
 
 | Labo  | Note |
 | ----- | ---- |
-|       |      |
-|       |      |
+| Labo1 | 5.1  |
+| Labo2 |      |
 
 ### MCR
 
@@ -317,11 +319,12 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 
   
   * [Labo1 - Clock](https://github.com/DrC0okie/HEIG_MCR_Labo1)
+  * [Labo2 - Bouncers](https://github.com/DrC0okie/HEIG_MCR_Labo2)
 
 | Labo  | Note |
 | ----- | ---- |
-|       |      |
-|       |      |
+| Labo1 | 5.9  |
+| Labo2 |      |
 
 ### WEB
 
