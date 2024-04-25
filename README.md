@@ -324,11 +324,11 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
 | Labo  | Note |
 | ----- | ---- |
 | Labo1 | 5.9  |
-| Labo2 |      |
+| Labo2 | 5.2  |
 
 ### WEB
 
-  2024 - Technologies web avec Olivier Tischhauser
+  2024 - Technologies web avec Vincent Guidoux
 
   
   * [Labo1 - ]() Coming soon!
@@ -343,29 +343,29 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   2024 - Apprentissage par réseaux de neurones artificiels avec Andres Perez Uribe
   
   
-  * [Labo1 - ]() Coming soon!
+  * [Labo3 - MLP - Competition](https://github.com/DrC0okie/HEIG_ARN_Labo3)
 
 | Labo  | Note |
 | ----- | ---- |
-|       |      |
+| Labo3 |      |
 |       |      |
 
 ### GRE
 
   2024 - Graphes et réseaux avec Jean-François Hêche et Thibaud Franchetti
     
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - Chaines de Markov à temps constant](https://github.com/DrC0okie/HEIG_GRE_Labo1)
 
 | Labo  | Note |
 | ----- | ---- |
-|       |      |
+| Labo1 |      |
 |       |      |
 
 ### EAL
 
   2024 - Ethique et aspects légaux avec Eric Bruyndonckx
 
-  * [Labo1 - ]() Coming soon!
+  * [Projet]() Coming soon!
 
 | Labo  | Note |
 | ----- | ---- |
