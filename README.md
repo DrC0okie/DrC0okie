@@ -87,7 +87,7 @@ Cette page regroupe la liste des repos associés aux laboratoires des cours que 
   * [Labo 3 - Tris](https://github.com/DrC0okie/ASD2022-L3-Tris)
   * [Labo 4 - Allocation dynamique](https://github.com/DrC0okie/ASD2022-L4-Allocation-Dynamique)
   * [Labo 5 - Buffer circulaire](https://github.com/DrC0okie/ASD2022-L5-Buffer-circulaire-de-capacite-variable)
-  * [Labo 6 - Liste simplement chainée](https://github.com/DrC0okie/ASD2022-L6-Liste-Simplement-chainee)
+  * [Labo 6 - Liste simplement chainée](https://github.com/DrC0okie/HEIG_ASD2022-L6-Liste-Simplement-chainee)
   * [Labo 7 - Expressions arithmétiques](https://github.com/DrC0okie/ASD2022-L7-Expressions-arithmetiques)
   * [Labo 8 - Arbre AVL](https://github.com/DrC0okie/HEIG_ASD_Labo8)
 
