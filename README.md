@@ -313,7 +313,7 @@ Leave a star! 🌟
 | Labo  | Note |
 | ----- | ---- |
 | Labo1 | 5.1  |
-| Labo2 |      |
+| Labo2 | 4.9  |
 
 ### MCR
 
@@ -333,12 +333,21 @@ Leave a star! 🌟
   2024 - Technologies web avec Vincent Guidoux
 
   
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - CSS]() Coming soon!
+  * [Labo2 - Tetris1]() Coming soon!
+  * [Labo3 - Tetris2 - Interaction]() Coming soon!
+  * [Labo4 - Multi page application]() Coming soon!
+  * [Labo5 - Tetris3 - Web sockets]() Coming soon!
+  * [Labo6 - Security]() Coming soon!
 
 | Labo  | Note |
 | ----- | ---- |
-|       |      |
-|       |      |
+| Labo1 | 6.0  |
+| Labo2 | 6.0  |
+| Labo3 |      |
+| Labo4 |      |
+| Labo5 |      |
+| Labo6 |      |
 
 ### ARN
 
@@ -346,21 +355,23 @@ Leave a star! 🌟
   
   
   * [Labo3 - MLP - Competition](https://github.com/DrC0okie/HEIG_ARN_Labo3)
+  * [Labo4 - CNN](https://github.com/DrC0okie/HEIG_ARN_Labo3)
 
 | Labo  | Note |
 | ----- | ---- |
 | Labo3 |      |
-|       |      |
+| Labo4 |      |
 
 ### GRE
 
   2024 - Graphes et réseaux avec Jean-François Hêche et Thibaud Franchetti
     
   * [Labo1 - Chaines de Markov à temps constant](https://github.com/DrC0okie/HEIG_GRE_Labo1)
+  * [Labo2 - Bellman-Ford-Yens](https://github.com/DrC0okie/HEIG_GRE_Labo2)
 
 | Labo  | Note |
 | ----- | ---- |
-| Labo1 |      |
+| Labo1 | 5.0  |
 |       |      |
 
 ### EAL
@@ -369,10 +380,6 @@ Leave a star! 🌟
 
   * [Projet]() Coming soon!
 
-| Labo  | Note |
-| ----- | ---- |
-|       |      |
-|       |      |
 
 
 ## HES d'été #2
