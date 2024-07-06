@@ -344,7 +344,7 @@ Leave a star! 🌟
   * [Labo4 - Multi page application](https://github.com/DrC0okie/HEIG-WEB/tree/main/4-multi-page-application)
   * [Labo5 - Tetris3 - Web sockets](https://github.com/DrC0okie/HEIG-WEB/tree/main/5-tetris-3-websockets)
   * [Labo6 - Security](https://github.com/DrC0okie/HEIG-WEB/tree/main/6-security)
-  * [Projet - Space-shooter](https://github.com/DrC0okie/HEIG-WEB/tree/main/7-react-libre)
+  * [Projet - Space-shooter](https://github.com/DrC0okie/WEB_Project_Space_Shooter)
 
 | Labo  | Note |
 | ----- | ---- |
