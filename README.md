@@ -9,7 +9,7 @@ Leave a star! 🌟
 
 ### PRG1
 
-  2021 - Programmation 1 avec Eric Taillard et Stéphane Teixeira Carvalho
+  2021 - Programmation 1 avec ETD et STC
 
   * [Labos_PRG1](https://github.com/DrC0okie/HEIG_PRG1_Labos)
 
@@ -21,7 +21,7 @@ Leave a star! 🌟
 
 ### SYL
 
-  2021 - Systèmes logiques avec Cédric Bornand et Gabriel Catel Torres Arzur
+  2021 - Systèmes logiques avec CBD et ACT
 
   * [Labo1 - Checksum](https://github.com/DrC0okie/HEIG_SYL_Labo1)
   * [Labo2 - ALU](https://github.com/DrC0okie/HEIG_SYL_Labo2)
@@ -40,7 +40,7 @@ Leave a star! 🌟
 
 ### ARO
 
-  2022 - Architecture des ordinateurs avec Romuald Mosqueron😎 et Mike Meury
+  2022 - Architecture des ordinateurs avec RMQ😎 et MERM😎
 
   * [Labo Decode](https://github.com/DrC0okie/HEIG_ARO_LaboDecode_BDY_TVE)
   * [Labo Fetch](https://github.com/DrC0okie/HEIG_ARO_LaboFetch_BDY_TVE)
@@ -56,7 +56,7 @@ Leave a star! 🌟
 
 ### ISD
 
-  2022 - Introduction à la science des données avec Carlos Pena et Thibault Schowing
+  2022 - Introduction à la science des données avec CPN et TWG
 
   * [Labo 3 - Animaux et Gapminder](https://github.com/DrC0okie/Roy_VanHove_ISD_TP3)
   * [Labo 4 - Classification de vins (UCI Wine Data Set)](https://github.com/DrC0okie/Roy_VanHove_ISD_TP4)
@@ -70,7 +70,7 @@ Leave a star! 🌟
 
 ### PRG2
 
-2022 - Programmation 2 avec René Rentsch😱 & Raphaël Racine
+2022 - Programmation 2 avec RRH😱 & RRA
 
   * [Labo1 - Planche de Galton](https://github.com/DrC0okie/HEIG_PRG2_Labo1)
   * [Labo2 - Parking](https://github.com/DrC0okie/HEIG_PRG2_Labo2)
@@ -82,7 +82,7 @@ Leave a star! 🌟
 
 ### ASD
 
-  2022 - Algorithmes et structures de données avec Laura Elena Raileanu et Antoine Rochat😎
+  2022 - Algorithmes et structures de données avec LRU et ROHA😎
 
   * [Labo 1 - Complexité](https://github.com/DrC0okie/ASD2022-L1-Complexite)
   * [Labo 2 - Recursivité](https://github.com/DrC0okie/ASD2022-L2-Recursivite)
@@ -105,7 +105,7 @@ Leave a star! 🌟
 
 ### PIN
 
-  2022 - Projet informatique avec Olivier Cuisenaire et Jean-Marc Bost
+  2022 - Projet informatique avec OCE et JEB
 
   * [PIN](https://github.com/DrC0okie/HEIG_PIN)
 
@@ -124,7 +124,7 @@ Leave a star! 🌟
 
 ### PCO
 
-  2023 - Programmation concurrente avec Florian Vaussard et Gabriel Catel Torres Arzur
+  2023 - Programmation concurrente avec FVD et ACT
 
   * [Labo1 - Prise en main des threads](https://github.com/DrC0okie/HEIG_PCO_Labo1)
   * [Labo2 - Cracking md5](https://github.com/DrC0okie/HEIG_PCO_Labo2)
@@ -141,7 +141,7 @@ Leave a star! 🌟
 
 ### SYE
 
-  2023 - Systèmes d'exploitation avec Alexandre Corbaz et Anthony Jaccard
+  2023 - Systèmes d'exploitation avec ACZ et AJD
 
   *Les labos 1-7 sont des labos "flash" réalisés durant les 2 périodes de labo uniquement*
 
@@ -175,7 +175,7 @@ Leave a star! 🌟
 
 ### PST
 
-  2023 avec Jacques Zuber
+  2023 avec JZR
 
   [Travail pratique](https://github.com/DrC0okie/HEIG_PST_Labo1)
 
@@ -183,7 +183,7 @@ Leave a star! 🌟
 
 ### DAI
 
-  2022 - Développement d'applications internet avec Jürgen Ehrensberger et Raphaël Racine
+  2022 - Développement d'applications internet avec JER et RRA
 
   * [Labo 1 - Chill Protocol](https://github.com/DrC0okie/HEIG_DAI_Labo1)
   * [Labo 2 - Java IO](https://github.com/DrC0okie/HEIG_DAI_Labo2)
@@ -201,7 +201,7 @@ Leave a star! 🌟
 
 ### BDR
 
-  2022 - Bases de données relationnelles avec Fatemi Nastaran et Christopher Meier😎
+  2022 - Bases de données relationnelles avec NFI et CMP😎
 
   * [Labo 1](https://github.com/DrC0okie/HEIG_BDR_Labo1)
   * [Labo 2](https://github.com/DrC0okie/HEIG_BDR_Labo2)
@@ -218,7 +218,7 @@ Leave a star! 🌟
 
 ### POO
 
-  2022 - Programmation orientée objet avec Marcel Graf et René Rentsch😱
+  2022 - Programmation orientée objet avec MGF et RRH😱
 
   * [Labo 1 - The Voice](https://github.com/DrC0okie/HEIG_POO_Labo1)
   * [Labo 2 - UML part 1](https://github.com/DrC0okie/HEIG_POO_Labo2)
@@ -242,7 +242,7 @@ Leave a star! 🌟
 
 ### PDL
 
-  2023 - Processus de développement logiciel avec Hanna Fouad😎 et Adrien Allemand
+  2023 - Processus de développement logiciel avec FHA😎 et ALEA
 
   * [Labo 2 - Processus de développement d'un projet routier](https://github.com/DrC0okie/HEIG_PDL_Labo2)
   * [Labo 6 - UML Concert](https://github.com/DrC0okie/HEIG_PDL_Labo6)
@@ -256,7 +256,7 @@ Leave a star! 🌟
 
 ### SRX
 
-  2023 - Sécurité des réseaux avec Linus Gasser et Axel Vallon
+  2023 - Sécurité des réseaux avec LGR et AVN
 
   * [Labo 1 - NMAP](https://github.com/DrC0okie/HEIG_SRX_Labo1)
   * [Labo 2 - Firewall](https://github.com/DrC0okie/HEIG_SRX_Labo2)
@@ -271,7 +271,7 @@ Leave a star! 🌟
 
 ### CLD
 
-  2023 - Cloud computing avec Marcel Graf et Rémi Poulard
+  2023 - Cloud computing avec MGF et RPO
 
   * [Labo 1 - Infrastructure-as-a-Service](https://github.com/DrC0okie/HEIG_CLD_Labo1)
   * [Labo 2 - App Scaling On AWS](https://github.com/DrC0okie/HEIG_CLD_Labo2)
@@ -290,7 +290,7 @@ Leave a star! 🌟
 
 ### GRS
 
-  2023 - Gestion des réseaux avec Alain Bron et Hacknowledge
+  2023 - Gestion des réseaux avec ABR et Hacknowledge
 
   * [Labo1 - Syslog](https://github.com/DrC0okie/HEIG_GRS_Labo1)
   * [Labo2 - SNMP / WMI](https://github.com/DrC0okie/HEIG_GRS_Labo2)
@@ -304,7 +304,7 @@ Leave a star! 🌟
 
 ### POA
 
-  2024 - Programmation orientée objet avancée avec Grégoire Krähenbühl et Grégoire Decorvet
+  2024 - Programmation orientée objet avancée avec GKL et GED
 
   * [Labo1 - Matrix reloaded]() Coming soon!
   * [Labo2 - Squadron]() Coming soon!
@@ -317,7 +317,7 @@ Leave a star! 🌟
 
 ### MCR
 
-  2024 - Modèles de conception réutilisables avec Pier Donini et Sébastien Rosat
+  2024 - Modèles de conception réutilisables avec PDO et SRS
 
   
   * [Labo1 - Clock](https://github.com/DrC0okie/HEIG_MCR_Labo1)
@@ -330,7 +330,7 @@ Leave a star! 🌟
 
 ### WEB
 
-  2024 - Technologies web avec Vincent Guidoux
+  2024 - Technologies web avec VGX et STV
 
   
   * [Labo1 - CSS]() Coming soon!
@@ -351,7 +351,7 @@ Leave a star! 🌟
 
 ### ARN
 
-  2024 - Apprentissage par réseaux de neurones artificiels avec Andres Perez Uribe
+  2024 - Apprentissage par réseaux de neurones artificiels avec APE et SWR
   
   
   * [Labo3 - MLP - Competition](https://github.com/DrC0okie/HEIG_ARN_Labo3)
@@ -364,7 +364,7 @@ Leave a star! 🌟
 
 ### GRE
 
-  2024 - Graphes et réseaux avec Jean-François Hêche et Thibaud Franchetti
+  2024 - Graphes et réseaux avec JHH et THI
     
   * [Labo1 - Chaines de Markov à temps constant](https://github.com/DrC0okie/HEIG_GRE_Labo1)
   * [Labo2 - Bellman-Ford-Yens](https://github.com/DrC0okie/HEIG_GRE_Labo2)
@@ -376,7 +376,7 @@ Leave a star! 🌟
 
 ### EAL
 
-  2024 - Ethique et aspects légaux avec Eric Bruyndonckx
+  2024 - Ethique et aspects légaux avec EBX
 
   * [Projet]() Coming soon!
 
@@ -386,7 +386,7 @@ Leave a star! 🌟
 
 ### PDG
 
-  2023 - Projet de groupe avec Bertil Chapuis😎 et Hanna Fouad😎
+  2023 - Projet de groupe avec BCS😎 et FHA😎
 
   * [Scanalyze](https://github.com/DrC0okie/scanalyze)
 
@@ -397,7 +397,7 @@ Note: 5.8
 
 ### SLH
 
-  2023 - Sécurité logicielle haut niveau avec Alexandre Duc😎
+  2023 - Sécurité logicielle haut niveau avec ADC😎
 
   * [Labo1 - Study Top25 CWE attacks](https://github.com/DrC0okie/HEIG_SLH_Labo1)
   * [Labo2 - Web app authentication](https://github.com/DrC0okie/HEIG_SLH_Labo2)
@@ -411,7 +411,7 @@ Note: 5.8
 
 ### DAA
 
-  2023 - Développement d'application Android avec Fabien Dutoit
+  2023 - Développement d'application Android avec FDI et IGI
 
 * [Labo2 - Activités et fragments](https://github.com/DrC0okie/HEIG_DAA_Labo2)
 * [Labo3 - Approche MVC](https://github.com/DrC0okie/HEIG_DAA_Labo3)
@@ -432,7 +432,7 @@ Note: 5.8
 
 ### ADS
 
-  2024 - Administration système avec Fabien Dutoit
+  2024 - Administration système avec FDI et CCC
   
   * [Labo1 - The command line](https://github.com/DrC0okie/HEIG_ADS_Labo1)
 
