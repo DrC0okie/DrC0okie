@@ -185,19 +185,19 @@ Leave a star! 🌟
 
   2022 - Développement d'applications internet avec Jürgen Ehrensberger et Raphaël Racine
 
-  * [Labo 1 - Chill Protocol](https://github.com/DrC0okie/DAI-2022-Chill)
-  * [Labo 2 - Java IO](https://github.com/DrC0okie/DAI-2022-Java-IO)
-  * [Labo 3 - Protocol Design (Calculator)](https://github.com/DrC0okie/DAI-2022-Protocol-design)
+  * [Labo 1 - Chill Protocol](https://github.com/DrC0okie/HEIG_DAI_Labo1)
+  * [Labo 2 - Java IO](https://github.com/DrC0okie/HEIG_DAI_Labo2)
+  * [Labo 3 - Protocol Design (Calculator)](https://github.com/DrC0okie/HEIG_DAI_Labo3)
   * [Labo 4 - SMTP](https://github.com/DrC0okie/HEIG_DAI_SMTP)
   * [Labo 5 - HTTP Infrastructure](https://github.com/DrC0okie/HEIG_DAI_HTTP_Infrastructure)
-  * [Labo 6 - UDP Orchestra](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra)
+  * [Labo 6 - UDP Orchestra](https://github.com/DrC0okie/HEIG_DAI_Labo6)
 
 | Labo  | Note | Feedback |
 | ----- | ---- | -------- |
 | Labo2 | 5.8  |          |
 | Labo4 | 5.9  | [feedback](https://github.com/DrC0okie/HEIG_DAI_SMTP/blob/master/DAI%202022%20-%20SMTP.xlsx) |
 | Labo5 | 5.4  | [feedback](https://github.com/DrC0okie/HEIG_DAI_HTTP_Infrastructure/blob/main/DAI%202022%20-%20Infra%20Web.xlsx) |
-| Labo6 | 5.7  | [feedback](https://github.com/DrC0okie/DAI-2022-UDP-Orchestra/blob/main/DAI%202022%20-%20UDP%20Orchestra.xlsx) |
+| Labo6 | 5.7  | [feedback](https://github.com/DrC0okie/HEIG_DAI_Labo6/blob/main/DAI%202022%20-%20UDP%20Orchestra.xlsx) |
 
 ### BDR
 
