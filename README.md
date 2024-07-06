@@ -306,14 +306,17 @@ Leave a star! 🌟
 
   2024 - Programmation orientée objet avancée avec GKL et GED
 
-  * [Labo1 - Matrix reloaded]() Coming soon!
-  * [Labo2 - Squadron]() Coming soon!
-  * [Labo3 - River]() Coming soon!
+  * [Labo1 - Matrix](https://github.com/DrC0okie/HEIG_POA/tree/main/lab1-matrix)
+  * [Labo2 - Squadron](https://github.com/DrC0okie/HEIG_POA/tree/main/lab2-squadron)
+  * [Labo3 - River](https://github.com/DrC0okie/HEIG_POA/tree/main/lab3-river)
+  * [Labo4 - Buffy](https://github.com/DrC0okie/HEIG_POA/tree/main/lab4-buffy)
 
 | Labo  | Note |
 | ----- | ---- |
 | Labo1 | 5.1  |
 | Labo2 | 4.9  |
+| Labo2 | 5.5  |
+| Labo2 | 5.1  |
 
 ### MCR
 
