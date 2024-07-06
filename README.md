@@ -362,7 +362,7 @@ Leave a star! 🌟
   
   
   * [Labo3 - MLP - Competition](https://github.com/DrC0okie/HEIG_ARN_Labo3)
-  * [Labo4 - CNN](https://github.com/DrC0okie/HEIG_ARN_Labo3)
+  * [Labo4 - CNN](https://github.com/DrC0okie/HEIG_ARN_Labo4)
   * [Labo5 - Projet](https://github.com/DrC0okie/HEIG_ARN_Projet)
 
 | Labo  | Note |
