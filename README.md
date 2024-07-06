@@ -322,32 +322,36 @@ Leave a star! 🌟
   
   * [Labo1 - Clock](https://github.com/DrC0okie/HEIG_MCR_Labo1)
   * [Labo2 - Bouncers](https://github.com/DrC0okie/HEIG_MCR_Labo2)
+  * [Projet - Visitor](https://github.com/DrC0okie/HEIG_MCR_Projet)
 
 | Labo  | Note |
 | ----- | ---- |
 | Labo1 | 5.9  |
 | Labo2 | 5.2  |
+| Projet | 5.5  |
 
 ### WEB
 
   2024 - Technologies web avec VGX et STV
 
   
-  * [Labo1 - CSS]() Coming soon!
-  * [Labo2 - Tetris1]() Coming soon!
-  * [Labo3 - Tetris2 - Interaction]() Coming soon!
-  * [Labo4 - Multi page application]() Coming soon!
-  * [Labo5 - Tetris3 - Web sockets]() Coming soon!
-  * [Labo6 - Security]() Coming soon!
+  * [Labo1 - CSS](https://github.com/DrC0okie/HEIG-WEB/tree/main/1-html-css)
+  * [Labo2 - Tetris1](https://github.com/DrC0okie/HEIG-WEB/tree/main/2-tetris-1-js)
+  * [Labo3 - Tetris2 - Interaction](https://github.com/DrC0okie/HEIG-WEB/tree/main/3-tetris-2-interaction)
+  * [Labo4 - Multi page application](https://github.com/DrC0okie/HEIG-WEB/tree/main/4-multi-page-application)
+  * [Labo5 - Tetris3 - Web sockets](https://github.com/DrC0okie/HEIG-WEB/tree/main/5-tetris-3-websockets)
+  * [Labo6 - Security](https://github.com/DrC0okie/HEIG-WEB/tree/main/6-security)
+  * [Projet - Space-shooter](https://github.com/DrC0okie/HEIG-WEB/tree/main/7-react-libre)
 
 | Labo  | Note |
 | ----- | ---- |
 | Labo1 | 6.0  |
 | Labo2 | 6.0  |
-| Labo3 |      |
-| Labo4 |      |
-| Labo5 |      |
-| Labo6 |      |
+| Labo3 | 6.0  |
+| Labo4 | 5.7  |
+| Labo5 | 5.8  |
+| Labo6 | 5.5  |
+| Projet | 6.0  |
 
 ### ARN
 
@@ -356,11 +360,13 @@ Leave a star! 🌟
   
   * [Labo3 - MLP - Competition](https://github.com/DrC0okie/HEIG_ARN_Labo3)
   * [Labo4 - CNN](https://github.com/DrC0okie/HEIG_ARN_Labo3)
+  * [Labo5 - Projet](https://github.com/DrC0okie/HEIG_ARN_Projet)
 
 | Labo  | Note |
 | ----- | ---- |
-| Labo3 |      |
-| Labo4 |      |
+| Labo3 | 5.8  |
+| Labo4 | 5.9  |
+| Labo5 | 5.9  |
 
 ### GRE
 
@@ -368,19 +374,24 @@ Leave a star! 🌟
     
   * [Labo1 - Chaines de Markov à temps constant](https://github.com/DrC0okie/HEIG_GRE_Labo1)
   * [Labo2 - Bellman-Ford-Yens](https://github.com/DrC0okie/HEIG_GRE_Labo2)
+  * [Labo3 - Choix d’une assemblée de délégués](https://github.com/DrC0okie/HEIG_GRE_Labo3)
 
 | Labo  | Note |
 | ----- | ---- |
 | Labo1 | 5.0  |
-|       |      |
+| Labo2 | 5.3  |
+| Labo3 | 5.2  |
 
 ### EAL
 
   2024 - Ethique et aspects légaux avec EBX
 
-  * [Projet]() Coming soon!
+  * [Projet - Genomics service](https://github.com/DrC0okie/HEIG_EAL_Project)
+  * [Workshop](https://github.com/DrC0okie/HEIG_EAL_Project/tree/main/Workshop)
 
-
+| Labo  | Note |
+| ----- | ---- |
+| Projet | 5.9  |
 
 ## HES d'été #2
 
@@ -435,9 +446,14 @@ Note: 5.8
   2024 - Administration système avec FDI et CCC
   
   * [Labo1 - The command line](https://github.com/DrC0okie/HEIG_ADS_Labo1)
+  * [Labo3 - Pipelines](https://github.com/DrC0okie/HEIG_ADS_Labo3)
+  * [Labo4 - Scripting](https://github.com/DrC0okie/HEIG_ADS_Labo4)
+  * [Labo6 - Access control](https://github.com/DrC0okie/HEIG_ADS_Labo6)
+  * [Labo7 - Account Management](https://github.com/DrC0okie/HEIG_ADS_Labo7)
 
 | Labo  | Note |
 | ----- | ---- |
-|       |      |
-|       |      |
-|       |      |
+| Labo3 | 5.2  |
+| Labo4 | 5.3  |
+| Labo6 | 5.6  |
+| Labo7 | 6.0  |
