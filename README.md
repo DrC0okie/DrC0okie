@@ -472,7 +472,7 @@ Grade: 5.8
 * [Labo3 - Approche MVC](https://github.com/DrC0okie/HEIG_DAA_Labo3)
 * [Labo4 - Architecture MVVM, Room et RecyclerView](https://github.com/DrC0okie/HEIG_DAA_Labo4)
 * [Labo5 - Coroutines](https://github.com/DrC0okie/HEIG_DAA_Labo5)
-* [Présentation - Bluetooth Low Energy](https://github.com/DrC0okie/HEIG_DAA_Workshop)
+* [Workshop - Bluetooth Low Energy](https://github.com/DrC0okie/HEIG_DAA_Workshop)
 
 | Labo     | Grade |
 | -------- | ----- |
