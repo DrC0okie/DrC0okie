@@ -507,7 +507,7 @@ Grade: 5.8
 
   2024 - Systèmes distribués et répartis
   
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - TSP heuristics](https://github.com/DrC0okie/HEIG_SIO_Labo1)
 
 | Labo     | Grade | Feedback |
 | -------- | ----- | -------- |
@@ -517,7 +517,7 @@ Grade: 5.8
 
   2024 - Simulation et optimisation [JHH, TFI]
   
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - Vo]() Coming soon!
 
 | Labo     | Grade | Feedback |
 | -------- | ----- | -------- |
