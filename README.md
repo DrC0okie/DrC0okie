@@ -388,15 +388,15 @@ Take a cookie and leave a star🌟
   * [Labo6 - Security](https://github.com/DrC0okie/HEIG-WEB/tree/main/6-security)
   * [Project - Space-shooter](https://github.com/DrC0okie/WEB_Project_Space_Shooter)
 
-| Labo  | Grade |
-| ----- | ----- |
-| Labo1 |  6.0  |
-| Labo2 |  6.0  |
-| Labo3 |  6.0  |
-| Labo4 |  5.7  |
-| Labo5 |  5.8  |
-| Labo6 |  5.5  |
-| Project | 6.0  |
+| Labo    | Grade |
+| ------- | ----- |
+| Labo1   |  6.0  |
+| Labo2   |  6.0  |
+| Labo3   |  6.0  |
+| Labo4   |  5.7  |
+| Labo5   |  5.8  |
+| Labo6   |  5.5  |
+| Project |  6.0  |
 
 ### ARN
 
@@ -485,53 +485,85 @@ Grade: 5.8
 
 ### PLP
 
-  2024 - Paradigmes et languages de programmation
+  2024 - Paradigmes et languages de programmation [YKN, TNZ]
 
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - tar compression](https://github.com/DrC0okie/HEIG_PLP_Labo1)
+  * [Labo2 - Map Haskell exercises](https://github.com/DrC0okie/HEIG_PLP_Labo2)
+  * [Labo3 - JSON Toolkit](https://github.com/DrC0okie/HEIG_PLP_Labo3)
+  * [Labo4 - Moka parser](https://github.com/DrC0okie/HEIG_PLP_Labo4)
 
-| Labo     | Grade | Feedback |
-| -------- | ----- | -------- |
+| Labo     | Grade |
+| -------- | ----- |
+| Labo1    | 5.5   |
+| Labo2    | 5.8   |
+| Labo3    | 6.0   |
+| Labo4    | 5.7   |
 
 
 ### AMT
 
-  2024 - Applications multi-tiers
+  2024 - Applications multi-tiers [DGI, GZK]
   
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - Quarkus with Sakila](https://github.com/DrC0okie/HEIG_AMT_Labo1)
+  * [Labo2 - Quarkus presentation layer](https://github.com/DrC0okie/HEIG_AMT_Labo2)
+  * [Labo3 - Jamcraft](https://github.com/DrC0okie/HEIG_AMT_Labo3)
 
-| Labo     | Grade | Feedback |
-| -------- | ----- | -------- |
+| Labo  | Grade |
+| ----- | ----- |
+| Labo1 | 5.5   |
+| Labo2 | 5.5   |
+| Labo3 | 5.0   |
 
 
 ### SDR
 
-  2024 - Systèmes distribués et répartis
+  2024 - Systèmes distribués et répartis [OLR, RRA]
   
-  * [Labo1 - TSP heuristics](https://github.com/DrC0okie/HEIG_SIO_Labo1)
+  * [Labo1 - RR](https://github.com/DrC0okie/HEIG_SDR_Labo1)
+  * [Labo2 - Mutex](https://github.com/DrC0okie/HEIG_SDR_Labo2)
+  * [Labo3 - Load balancing](https://github.com/DrC0okie/HEIG_SDR_Labo3)
+  * [Labo4 - Routing](https://github.com/DrC0okie/HEIG_SDR_Labo4)
 
-| Labo     | Grade | Feedback |
-| -------- | ----- | -------- |
+| Labo  | Grade |
+| ----- | ----- |
+| Labo1 |  6.0  |
+| Labo2 |  5.9  |
+| Labo3 |  5.9  |
+| Labo4 |  5.7  |
 
 
 ### SIO
 
   2024 - Simulation et optimisation [JHH, TFI]
   
-  * [Labo1 - Vo]() Coming soon!
+  * [Labo1 - Insertion TSP heuristics](https://github.com/DrC0okie/HEIG_SIO_Labo1)
+  * [Labo2 - Heuristique 2-opt](https://github.com/DrC0okie/HEIG_SIO_Labo2)
+  * [Labo3 - Monte Carlo Simulation and the Birthday Paradox](https://github.com/DrC0okie/HEIG_SIO_Labo3)
 
-| Labo     | Grade | Feedback |
-| -------- | ----- | -------- |
+| Labo   | Grade |
+| ------ | ----- |
+| Labo1  | 5.1   |
+| Labo2  | 6.0   |
+| Labo3  | 5.7   |
 
 
 ### MAC
 
   2024 - Méthodes d'accès aux données [NFI, CMP]
   
-  * [Labo1 - ]() Coming soon!
+  * [Labo1 - Couchbase](https://github.com/DrC0okie/HEIG_MAC_Labo1)
+  * [Labo2 - Neo4j](https://github.com/DrC0okie/HEIG_MAC_Labo2)
+  * [Labo3 - Indexing and search with Elasticsearch](https://github.com/DrC0okie/HEIG_MAC_Labo3)
+  * [Labo4 - Big Data with Spark and Zeppelin](https://github.com/DrC0okie/HEIG_MAC_Labo4)
+  * [Case study - PostgreSQL](https://github.com/DrC0okie/HEIG_MAC_PGSQL)
 
-| Labo     | Grade | Feedback |
-| -------- | ----- | -------- |
-
+| Labo       | Grade |
+| ---------- | ----- |
+| Labo1      | 5.5   |
+| Labo2      | 5.3   |
+| Labo3      | 5.6   |
+| Labo4      | 5.9   |
+| Case study | 6.0   |
 
 ## Semester 6
 
