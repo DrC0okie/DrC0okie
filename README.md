@@ -174,7 +174,7 @@ Take a cookie and leave a star🌟
   * [Labo2 - Cracking md5](https://github.com/DrC0okie/HEIG_PCO_Labo2)
   * [Labo3 - Gestion d’accès concurrents](https://github.com/DrC0okie/HEIG_PCO_Labo3)
   * [Labo4 - Gestion de ressources (trains)](https://github.com/DrC0okie/HEIG_PCO_Labo4)
-  * [Labo5 - Modélisation par moniteur de Mesa (baribier)](https://github.com/DrC0okie/HEIG_PCO_Labo5)
+  * [Labo5 - Modélisation par moniteur de Mesa (Barbier)](https://github.com/DrC0okie/HEIG_PCO_Labo5)
   * [Labo6 - Producteur-Consommateur pour calcul différé (Hoare)](https://github.com/DrC0okie/HEIG_PCO_Labo6)
 
 | Labo  | Grade | Feedback |
