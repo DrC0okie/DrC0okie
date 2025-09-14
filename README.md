@@ -365,7 +365,7 @@ Take a cookie and leave a star🌟
 ### MCR
 
   2024 - Modèles de conception réutilisables [PDO, SRS]
-  
+
   * [Labo1 - Clock](https://github.com/DrC0okie/HEIG_MCR_Labo1)
   * [Labo2 - Bouncers](https://github.com/DrC0okie/HEIG_MCR_Labo2)
   * [Project - Visitor](https://github.com/DrC0okie/HEIG_MCR_Projet)
@@ -401,7 +401,7 @@ Take a cookie and leave a star🌟
 ### ARN
 
   2024 - Apprentissage par réseaux de neurones artificiels [APE, SWR]
-  
+
   * [Labo3 - MLP - Competition](https://github.com/DrC0okie/HEIG_ARN_Labo3)
   * [Labo4 - CNN](https://github.com/DrC0okie/HEIG_ARN_Labo4)
   * [Labo5 - Project](https://github.com/DrC0okie/HEIG_ARN_Project)
@@ -503,7 +503,7 @@ Grade: 5.8
 ### AMT
 
   2024 - Applications multi-tiers [DGI, GZK]
-  
+
   * [Labo1 - Quarkus with Sakila](https://github.com/DrC0okie/HEIG_AMT_Labo1)
   * [Labo2 - Quarkus presentation layer](https://github.com/DrC0okie/HEIG_AMT_Labo2)
   * [Labo3 - Jamcraft](https://github.com/DrC0okie/HEIG_AMT_Labo3)
@@ -518,11 +518,11 @@ Grade: 5.8
 ### SDR
 
   2024 - Systèmes distribués et répartis [OLR, RRA]
-  
-  * [Labo1 - RR](https://github.com/DrC0okie/HEIG_SDR_Labo1)
-  * [Labo2 - Mutex](https://github.com/DrC0okie/HEIG_SDR_Labo2)
-  * [Labo3 - Load balancing](https://github.com/DrC0okie/HEIG_SDR_Labo3)
-  * [Labo4 - Routing](https://github.com/DrC0okie/HEIG_SDR_Labo4)
+
+  * [Labo1 - RR](1.gif)
+  * [Labo2 - Mutex](1.gif)
+  * [Labo3 - Load balancing](1.gif)
+  * [Labo4 - Routing](1.gif)
 
 | Labo  | Grade |
 | ----- | ----- |
@@ -535,7 +535,7 @@ Grade: 5.8
 ### SIO
 
   2024 - Simulation et optimisation [JHH, TFI]
-  
+
   * [Labo1 - Insertion TSP heuristics](https://github.com/DrC0okie/HEIG_SIO_Labo1)
   * [Labo2 - Heuristique 2-opt](https://github.com/DrC0okie/HEIG_SIO_Labo2)
   * [Labo3 - Monte Carlo Simulation and the Birthday Paradox](https://github.com/DrC0okie/HEIG_SIO_Labo3)
@@ -550,7 +550,7 @@ Grade: 5.8
 ### MAC
 
   2024 - Méthodes d'accès aux données [NFI, CMP]
-  
+
   * [Labo1 - Couchbase](https://github.com/DrC0okie/HEIG_MAC_Labo1)
   * [Labo2 - Neo4j](https://github.com/DrC0okie/HEIG_MAC_Labo2)
   * [Labo3 - Indexing and search with Elasticsearch](https://github.com/DrC0okie/HEIG_MAC_Labo3)
@@ -570,7 +570,7 @@ Grade: 5.8
 ### ADS
 
   2024 - Administration système [FDI, CCC]
-  
+
   * [Labo1 - The command line](https://github.com/DrC0okie/HEIG_ADS_Labo1)
   * [Labo3 - Pipelines](https://github.com/DrC0okie/HEIG_ADS_Labo3)
   * [Labo4 - Scripting](https://github.com/DrC0okie/HEIG_ADS_Labo4)
