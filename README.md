@@ -47,6 +47,9 @@ Take a cookie and leave a star🌟
   * [MAC](#MAC)
 * [Semester 6](#semester-6)
   * [ADS](#ADS)
+  * [DMA](#DMA)
+  * [TAL](#TAL)
+  * [PLM](#PLM)
 
 
 ## Semester 1
