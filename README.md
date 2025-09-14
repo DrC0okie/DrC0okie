@@ -583,3 +583,55 @@ Grade: 5.8
 | Labo4 |  5.3  |
 | Labo6 |  5.6  |
 | Labo7 |  6.0  |
+
+
+### DMA
+
+  2025 - Développement mobile avancé [FDI, EGY]
+
+  * [Labo1 - Protocoles applicatifs mobiles](https://github.com/DrC0okie/HEIG_DMA_Labo1)
+  * [Labo2 - iBeacon](https://github.com/DrC0okie/HEIG_DMA_Labo2)
+  * [Labo3 - Wifi RTT](https://github.com/DrC0okie/HEIG_DMA_Labo3)
+  * [Labo4 - BLE](https://github.com/DrC0okie/HEIG_DMA_Labo4)
+  * [Project - NearNote](https://github.com/DrC0okie/HEIG_DMA_Project)
+
+| Labo    | Grade |
+| ------- | ----- |
+| Labo1   |  5.9  |
+| Labo2   |  5.8  |
+| Labo3   |  6.0  |
+| Labo4   |  6.0  |
+| Project |  6.0  |
+
+### TAL
+
+  2025 - Traitement automatique des langues [APU, TFR]
+
+  * [Labo1 - Prise en main, segmentation en mots et en phrases](https://github.com/DrC0okie/HEIG_TAL_Labo1)
+  * [Labo2 - POS taggers avec spaCy et NLTK](https://github.com/DrC0okie/HEIG_TAL_Labo2)
+  * [Labo3 - Analyse syntaxique (parsing)](https://github.com/DrC0okie/HEIG_TAL_Labo3)
+  * [Labo4 - Reconnaissance des entités nommées](https://github.com/DrC0okie/HEIG_TAL_Labo4)
+  * [Labo5 - Le modèle word2vec et ses applications](https://github.com/DrC0okie/HEIG_TAL_Labo5)
+  * [Labo6 - Désambiguisation lexicale (WSD)](https://github.com/DrC0okie/HEIG_TAL_Labo6)
+
+| Labo  | Grade |
+| ----- | ----- |
+| Labo1 |  5.9  |
+| Labo2 |  6.0  |
+| Labo3 |  5.4  |
+| Labo4 |  5.7  |
+| Labo5 |  5.4  |
+
+### PLM
+
+  2025 - Programming Language Multiverse [BCS, JVI]
+
+  * [Project - Spawn It](https://github.com/spawn-it)
+
+| Labo                    | Grade |
+| ----------------------- | ----- |
+| Présentation théorique  |  6.0  |
+| Rapport intermédiaire   |  5.0  |
+| Présentation pratique   |  6.0  |
+| Qualité du code produit |  6.0  |
+| Rapport pratique        |  5.5  |
