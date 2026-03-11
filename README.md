@@ -291,9 +291,9 @@ Take a cookie and leave a star🌟
 
   2023 - Processus de développement logiciel [FHA, ALEA]
 
-  * [Labo 2 - Processus de développement d'un projet routier](https://github.com/DrC0okie/HEIG_PDL_Labo2)
-  * [Labo 6 - UML Concert](https://github.com/DrC0okie/HEIG_PDL_Labo6)
-  * [Labo 7 - Code refactoring](https://github.com/DrC0okie/HEIG_PDL_Labo7)
+  * [Labo 2 - Processus de développement d'un projet routier](1.gif)
+  * [Labo 6 - UML Concert](1.gif)
+  * [Labo 7 - Code refactoring](1.gif)
 
 | Labo  | Grade | Feedback |
 | ----- | ----- | -------- |
