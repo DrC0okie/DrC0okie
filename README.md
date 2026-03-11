@@ -522,10 +522,10 @@ Grade: 5.8
 
   2024 - Systèmes distribués et répartis [OLR, RRA]
 
-  * [Labo1 - RR](1.gif)
-  * [Labo2 - Mutex](1.gif)
-  * [Labo3 - Load balancing](1.gif)
-  * [Labo4 - Routing](1.gif)
+  * [Labo1 - RR](https://github.com/DrC0okie/HEIG_SDR_Labo1)
+  * [Labo2 - Mutex](https://github.com/DrC0okie/HEIG_SDR_Labo2)
+  * [Labo3 - Load balancing](https://github.com/DrC0okie/HEIG_SDR_Labo3)
+  * [Labo4 - Routing](https://github.com/DrC0okie/HEIG_SDR_Labo4)
 
 | Labo  | Grade |
 | ----- | ----- |
