@@ -1,4 +1,4 @@
-# Hi, I'm Tim
+# Hi, I'm Tim 🍪
 
 Software engineer from Switzerland focused on mobile, backend and distributed systems development.
 
