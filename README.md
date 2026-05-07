@@ -16,7 +16,7 @@ I enjoy building low-level and infrastructure-heavy software involving:
 
 ## Featured projects
 
-### [POLARIS](https://github.com/DrC0okie/polaris)
+### [POLARIS](https://github.com/DrC0okie/polaris) (2025)
 Mobile proof-of-location protocol using BLE, cryptographic signatures and opportunistic networking concepts.
 
 Technologies:
@@ -24,7 +24,7 @@ Technologies:
 
 ---
 
-### TRex (not public yet)
+### TRex (not public yet) (2026)
 Experimental OCR/KIE pipeline for receipt understanding using transformer-based architectures and geometric embeddings.
 
 Technologies:
@@ -32,7 +32,18 @@ Technologies:
 
 ---
 
-### [SpawnIt](https://github.com/spawn-it)
+### [Scanalyze](https://github.com/DrCo0kie-HEIG/scanalyze) (2023)
+
+Collaborative grocery receipt analysis platform developed in two weeks during a HEIG-VD group project with my awesome colleagues (Jarod)[https://github.com/JarodStreck] and [Anthony](https://github.com/AnthonyDavid3110)
+
+The application lets users scan grocery receipts from an Android app, extract receipt data with OCR, track their spending history, and visualize consumption statistics. It also includes a backend API for data processing, product indexing and authentication, plus a Puppeteer-based scraper used to collect product data from Swiss grocery stores.
+
+Technologies:
+`Kotlin` `Android` `TypeScript` `JavaScript` `Puppeteer` `OCR` `REST API`
+
+---
+
+### [SpawnIt](https://github.com/spawn-it) (2025)
 Declarative infrastructure deployment platform using OpenTofu and containerized services.
 
 Technologies:
@@ -40,13 +51,24 @@ Technologies:
 
 ---
 
-### [Space Shooter](https://github.com/DrCo0kie-HEIG/WEB_Project_Space_Shooter)
+### [Space Shooter](https://github.com/DrCo0kie-HEIG/WEB_Project_Space_Shooter) (2024)
 Real-time multiplayer browser game project developed during HEIG-VD web technologies course.
 
 Technologies:
 `JavaScript` `WebSockets` `Node.js`
 
 ---
+
+### [JamCraft](https://github.com/DrCo0kie-HEIG/HEIG_AMT_Labo3) (2025)
+Collaborative web-based music composition platform built around gRPC and distributed communication concepts.
+
+The application allows multiple users to collaboratively edit shared audio timelines in real time using synchronized events and networked services.
+
+Technologies:
+`Typescript` `Quarkus` `gRPC` `grpc-web` `PostgreSQL` `Docker`
+
+---
+
 
 ## Technologies
 
