@@ -16,7 +16,7 @@ I enjoy building low-level and infrastructure-heavy software involving:
 
 ## Featured projects
 
-### POLARIS
+### [POLARIS](https://github.com/DrC0okie/polaris)
 Mobile proof-of-location protocol using BLE, cryptographic signatures and opportunistic networking concepts.
 
 Technologies:
@@ -32,7 +32,7 @@ Technologies:
 
 ---
 
-### SpawnIt
+### [SpawnIt](https://github.com/spawn-it)
 Declarative infrastructure deployment platform using OpenTofu and containerized services.
 
 Technologies:
@@ -40,7 +40,7 @@ Technologies:
 
 ---
 
-### Space Shooter
+### [Space Shooter](https://github.com/DrCo0kie-HEIG/WEB_Project_Space_Shooter)
 Real-time multiplayer browser game project developed during HEIG-VD web technologies course.
 
 Technologies:
