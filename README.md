@@ -34,7 +34,7 @@ Technologies:
 
 ### [Scanalyze](https://github.com/DrCo0kie-HEIG/scanalyze) (2023)
 
-Collaborative grocery receipt analysis platform developed in two weeks during a HEIG-VD group project with my awesome colleagues (Jarod)[https://github.com/JarodStreck] and [Anthony](https://github.com/AnthonyDavid3110)
+Collaborative grocery receipt analysis platform developed in two weeks during a HEIG-VD group project with my awesome colleagues [Jarod](https://github.com/JarodStreck) and [Anthony](https://github.com/AnthonyDavid3110)
 
 The application lets users scan grocery receipts from an Android app, extract receipt data with OCR, track their spending history, and visualize consumption statistics. It also includes a backend API for data processing, product indexing and authentication, plus a Puppeteer-based scraper used to collect product data from Swiss grocery stores.
 
