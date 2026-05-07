@@ -61,6 +61,15 @@ The application allows multiple users to collaboratively edit shared audio timel
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square) ![grpc-web](https://img.shields.io/badge/grpc--web-244C5A?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+### [AWS IoT Core Workshop](https://github.com/DrCo0kie-HEIG/HEIG_CLD_Workshop) (2023)
+End-to-end IoT workshop project connecting ESP32/ESP8266 devices to AWS IoT Core using MQTT, Lambda functions, API Gateway WebSockets and a browser-based control interface.
+
+![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
 ## My Interests
 
 - Mobile systems
